@@ -1,0 +1,5044 @@
+﻿The Project Gutenberg EBook of Nuovi versi, by Vittorio Betteloni
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Nuovi versi
+
+Author: Vittorio Betteloni
+
+Commentator: Giosuè Carducci
+
+Release Date: July 11, 2019 [EBook #59903]
+
+Language: Italian
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NUOVI VERSI ***
+
+
+
+
+Produced by Carlo Traverso, Barbara Magni and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+                              NUOVI VERSI
+
+
+                                   DI
+
+                           VITTORIO BETTELONI
+
+
+                             CON PREFAZIONE
+                                   DI
+                            GIOSUÈ CARDUCCI
+
+
+
+                                BOLOGNA
+                           NICOLA ZANICHELLI
+                               MDCCCLXXX
+
+
+
+
+                               L'EDITORE
+                           ADEMPIUTI I DOVERI
+                ESERCITERÀ I DIRITTI SANCITI DALLE LEGGI
+
+
+
+
+PREFAZIONE
+
+
+Chi si ricorda piú della poesia italiana di dieci o undici anni sono?
+o, meglio, chi si ricorda piú dell'Italia d'avanti il 1870? Il nostro
+secolo corre — corra anche la frase — a rotta di collo; e poi fra i
+noi d'oggi e i noi di ieri caddero valanghe da fermare e far ritorcere
+ben altri fiumi che delle rime e dei versi. I bimbi che nacquero
+in quell'anno non han per anche pubblicato, ch'io sappia, le loro
+disillusioni in elzevir; ma a quell'anno noi pensiamo con un sentimento
+faticoso di lontananza, con in cuore la esclamazione manzoniana, _tanto
+secol vi corse sopra!_
+
+E pure vivevamo anche allora. Che ardore anzi di vita fra il 67
+e il 70! _Forti eran essi e combattean co' forti._ Dopo Mentana,
+l'assettamento finale della nazione con Roma capitale pareva a
+tutti, confessiamolo, prorogato. In aspettando, quelli che volevano
+andar piano o non volevano andare del tutto pensavano fosse tempo
+di raccogliersi, di misurare la via fatta e da fare, e intanto
+riposarsi un poco pigliando un rinfresco di letteratura. — Oh un po'
+di letteratura! — parevano raccomandarsi: — l'Italia è stufa di tanta
+politica: rivuole della letteratura, magari delle accademie. — Quelli
+che volevano andar forte — Che riposo — rispondevano — o che rinfresco?
+Volete della letteratura? Combatteremo anche in versi, anche in prosa,
+a vostra scelta. — E si ricominciò da una parte, dopo tanti anni, a
+discorrere di cose letterarie, con certa gravità spolverata a nuovo per
+l'occasione, ma sotto quell'ombra con chiacchiere e vogliuzze come di
+donnine incinte. Le appendici e le rassegne critiche parevano diventate
+altrettante cliniche d'ostetricia. Il teatro italiano è anche nato o
+è da nascere? A che punto è il concepimento del romanzo italiano? Il
+_pondo ascoso_ che balza in quella bella rotondità alpigiana sarebbe
+per avventura la prosa italiana moderna? E alla poesia moderna italiana
+chi scioglierà il _grembo doloroso_, un prete, un avvocato o un
+professore? Ma l'embrione almeno di una lingua viva c'è o non c'è in
+Italia?
+
+Per l'appunto: tanto per non venir meno alle gloriose tradizioni, si
+ricominciò proprio da capo; si ricominciò dalla lingua. Veramente
+non si ricominciò: quando mai l'Italia, da che Dante le tagliò lo
+scilinguagnolo col Vulgare Eloquio, ha smesso di guardarsi la lingua?
+Ora avvenne che una bella mattina di maggio la nazione si svegliò tutta
+spaventata, che non aveva piú lingua. L'onorevole Broglio, lombardo,
+pensò provvedere commettendo all'onorevole Giorgini, lucchese, il
+dizionario dell'uso fiorentino. Io non discuto intenzioni e competenze:
+noto singolarità di casi: tanto piú che le erbaiole di Firenze
+pareano aver soggezione dei nuovi Teofrasti. Erano tempi difficili:
+l'impero napoleonico faceva le crepe da tutti i lati, la Germania
+fiottava, il socialismo bolliva: pure l'Italia si divertí a scoprire
+che Benedetto Varchi e il cavalier Salviati non furono, almeno in
+teorica, fiorentini a bastanza: il ribobolo trionfò per piú mesi fra
+il dirugginío del macinato: lo stornello sbirichinò fra l'inchiesta su
+la regía dei tabacchi e il processo Lobbia: quei di Buffalora venivano
+a gargarizzare il loro _iú_ nelle acque del Mugnone: Calandrino non
+ebbe mai come in quegli anni il culto che a parer mio gli è dovuto
+dalle maggioranze, almeno quando s'infatuano per le questioni inutili.
+Intanto il Manzoni, dopo messo il campo a rumore con la lingua e con la
+prosa, tornava a fare de' versi. Già, de' versi; ma in latino, e alle
+anatre, alle anatre dei giardini di Milano:
+
+    _Fortunatæ anates, quibus aether ridet apertus_
+      _Liberaque in lato margine stagna patent!_
+
+Libertà d'acqua stagnante nella largura d'un giardino pubblico bene
+spallierato e ben pettinato: gli auspicii per la lingua e la prosa
+moderna erano rassicuranti.
+
+Pure, l'anarchia e la ribellione che l'onorevole Menabrea giunse a
+contenere in piazza, l'onorevole Broglio non dico la sguinzagliasse ma
+certo non poté infrenarla nei libri. Della prosa non voglio parlare.
+Ma il Prati, che in quegli anni s'era messo a comporre anch'egli versi
+latini, die' fuori anche un libro dell'Eneide tradotto con tanta foga
+(per dispetto, credo, ai fiorentinismi lombardi) di latinismi, che né
+meno basterebbe a ripararli
+
+    _Nel fluente suo vel la dia Lacena_
+
+di Vincenzo Monti. E pubblicò l'_Armando_, ove latinismi e neologismi
+e motti e riboboli disfrenava di pari, mescolando epopea e commedia,
+romanzo e lirica: l'_Armando_, nel quale fra le retoriche del dubbio
+d'Amleto con l'annesso teschio, fra le declamazioni di Fausto e li
+sghignazzamenti di Mefistofele in pasticcio di Strasburgo, fra le
+pose di Caino e di Manfredo con la fusciacca al vento — i tre ponti
+dell'asino della scuola romantica scettica —, scorrevano rivi di poesia
+tali che l'Italia non ne aveva da piú anni veduto scendere di piú
+limpidi e freschi dal suo Parnaso. Il qual Parnaso fu troppo tosato di
+piante dai falsi classici sí che possa oramai avere acque correnti, se
+bene è vero che i romantici ci hanno scavato qua e là delle cisterne
+per la conserva del sentimento e dell'_humour_. Il _canto d'Igea_
+nella seconda parte dell'_Armando_ è ciò che di piú sanamente classico
+ha prodotto la poesia del tempo nostro in Italia. Ludovico Tieck,
+il piú stravagante e il piú logico dei romantici di Germania, dopo
+i grotteschi del _Kaiser Octavianus_ e della _Genoveva_, finiva con
+rimettere in scena una tragedia di Sofocle. Giovanni Prati, il solo
+veramente e riccamente poeta della seconda generazione dei romantici
+in Italia, coronava l'ultima opera di quella scuola con una ode che
+somiglia a un coro di Sofocle.
+
+Di passaggio: io mi ostino a servirmi di queste parole, _romantici_
+e _romanticismo_, _classici_ e _classicismo_, se bene un falso buon
+gusto tutto italiano vorrebbe non si pronunziassero piú: come se,
+omettendo le parole, le cose non restassero, come se avesser ragione i
+bambini, quando, tappandosi gli occhi, credono sfuggir cosí alla vista
+o alla conoscenza altrui. Del resto, se tali denominazioni siano bene
+applicate in tutto, se siano bene, cioè storicamente, intese fra noi,
+come, per esempio, in Germania, io non debbo dire: ripeto che designano
+due fatti.
+
+Il Prati anche chiudeva la prefazione all'_Armando_ — nobile richiamo
+alla dignità dell'arte e al rispetto degli artisti, proprio nel punto
+che l'Italia cominciava a dare troppi segni d'una irrefrenabile
+inclinazione al materialismo dei subiti guadagni e dei godimenti
+inferiori — chiudeva, dico, la sua prefazione con questa _ultima
+parola, per rendersi benevoli e grati i lettori_ «Il mio non è un
+libro politico.» Fin d'allora si cominciava a predicare il bando
+della politica dalla letteratura. E il Prati parlava in buona fede:
+in lui _il nome che piú dura e piú onora_ non ha bisogno d'amminicoli
+politici. Ma altri predicavano perché a loro dispiaceva che non a
+tutti piacesse la politica che piaceva a loro. E intanto i partiti
+seguitavano a spingere e a sollevare, com'è naturale, lo scrittore che
+usciva dalle loro file e il libro che faceva i loro interessi.
+
+I moderati veri, che in fine hanno da essere conservatori se qualche
+cosa vogliono moderare, trovarono il loro poeta in Giacomo Zanella.
+Per quelli che invocavano e aspettano l'accordo della libertà con
+la fede, del progresso col dogma, dell'Italia con la Chiesa, Giacomo
+Zanella era l'uomo. Ai superstiti dell'antica Italia, agli eredi delle
+antiche idee, ai riformisti, ai neoguelfi, egli prete ricordava e
+rinnovava i bei tempi nei quali il prete era parte integrante della
+società italiana. L'abate italiano, riformista e mezzo-giacobino col
+Parini, soprannuotato col Cesarotti e col Barbieri alla rivoluzione,
+che s'era fatto col Di Breme banditore di romanticismo e soffiatore
+nel carbonarismo del 21, che aveva intinto col Gioberti nelle
+cospirazioni e bandito il _Primato d'Italia_ e il _Rinnovamento_,
+che aveva col Rosmini additato le piaghe della Chiesa, che aveva
+coll'Andreoli e col Tazzoli salito il patibolo per il santo peccato
+del patriottismo; l'abate italiano viveva, e viva ancora a lungo e
+onorato, in Giacomo Zanella, ridotto in certe proporzioni, migliorato
+in altre parti. La poesia dell'abate Zanella usciva dai seminari; ma da
+quei seminari veneti _alquanto mondanetti_, illustrati dalla filologia
+del Forcellini, dall'estetica del Cesarotti, dalle grazie (un po'
+adipose, a dir vero) del Barbieri. L'abate Zanella aveva cominciato
+esercitandosi con gli altri chierici in gare di traduzioni da Ovidio
+e da Orazio; ma poi aveva tradotto anche dello Shelley, e mostra di
+saperlo apprezzare con larghezza e forza di giudizio, tutt'altro che da
+seminario. Rifiorivano ne' suoi versi le belle tradizioni della scuola
+classica: il Mascheroni, didascalico, vi s'era fatto lirico: il Parini
+lirico vi appariva ammorbidito e piú ortodosso: l'elegiaco e moralista
+Pindemonte, smessa la cipria con la quale era solito ballare in gara
+al celebre Picche, pareva aver curato con un trattamento scientifico
+certa debolezza di nervi presa nell'ambiente poetico inglese del regno
+di Giorgio III, e s'era un po' riscaldato e imbrunito alla primavera
+del 1848. Oltre di ciò, nelle poesie dell'abate Zanella gli accordi e
+le conciliazioni fra la ricerca scientifica e l'autorità del dogma, fra
+il pensiero moderno e l'eternità della fede, fra il sentimento nuovo
+irrequieto e le regole dell'arte tradizionale, erano, ingenuamente,
+sinceramente, candidamente, proseguite, volute, credute raggiungere.
+E a volte la trepidazione dell'uomo sottomesso che pure ha scòrti i
+misteri dell'essere era resa con umiltà di affanno, in armonie non dal
+profondo strazianti ma di gemente tranquillità, dal poeta che rialzava
+gli occhi al cielo. E la gioia della pace ritrovata in cotesto alzare
+degli occhi suonava amabilmente modesta, quasi accorata. Tale contenuto
+poetico fu il calmante aspettato e richiesto, e fu annunziato a grandi
+voci da molta gente a modo, massime in Toscana e nella Venezia. Del
+resto, quando mai la poesia odierna aveva trovato un'ornamentazione
+di gusto cosí corretto per le feste di famiglia, per le parate
+dell'industria e per i trionfi del tecnicismo? Quando mai da molti anni
+la breve snella arguta strofe classica era stata carezzata e liberata
+al volo con tanta abilità facilità e grazia? Dei detrattori dell'abate
+Zanella chi ha o chi troverà altrove nelle rime d'oggi lo spirito
+lirico, che ondeggia circonvolgendosi con un mite rumore di marina
+lontana nelle volute meravigliosamente delineate marcate e colorite
+della _Conchiglia fossile_?
+
+Le poche volte che l'abate Zanella toccò in versi il tasto della
+politica, la corda gli rispose stridula o molle. La poesia politica in
+quegli anni fu di parte democratica. Giulio Uberti su i primi del 71
+radunava, non le fronde sparte, gli sparti suoi dardi: dardo chiama
+Pindaro il verso che alto e fulgido vola. La poesia dell'Uberti,
+una ed uguale nella sostanza, attesta nello svolgimento formale le
+vicende del sentimento e del gusto italiano lungo i primi cinquanta
+anni del secolo: proceduta dal classicismo pariniano, erasi riposata
+nel classicismo manzoniano, pur riflettendo alquanto dal colorito del
+Byron e forse anche di Vittore Hugo, non senza i fondacci d'un po'
+di quel gergo mistico che il romanticismo politico aveva introdotto
+nella poesia e nella eloquenza. Con tutto ciò il poeta bresciano,
+in forza della coerenza intima dell'anima sua, rimane originale. Uno
+spirito alfieriano pervade quelle forme e le fissa in atteggiamenti
+quasi scultorii. Gli ultimi versi, quelli scritti nel 70, ci voleva la
+passione politica degli uni e la facilità senza gusto degli altri per
+trovarli mirabili. Ma l'Italia, quando sarà passato questo strabocco
+di latte inacetito d'Arcadia, ricorderà, piú che non faccia ora, le
+quattro odi, _Napoleone_, _Washington_, _Garibaldi_, _Mazzini_, cosí
+magnanime di sensi, cosí dense di concetti e di imagini, cosí alte
+d'intonazione: ricorderà, ripensando agli anni gloriosi.
+
+Se altro ricorderà l'Italia della poesia politica d'allora, io non
+so. So che quelli eran bei giorni. Felice Cavallotti, il lirico della
+_Bohême_ (vollero chiamarsi, con umiltà d'imitazione sbagliata,
+_Bohême_, essi affaccendati sempre fra i duelli le sommosse e le
+carceri), in prigione _mudava_ a drammaturgo, e covava l'_Alcibiade_
+e il _Tirteo_, a dispetto di quelli che s'erano impuntati a farci
+passare per una manica di ignoranti. Di me, per esempio, che nel
+turbine democratico mi gettai non so se dai promontorii del classicismo
+o dalle secche della filologia romanza, poteano aver ragione quando
+dicevano — È roba questa non da critica, ma da procuratore del re —; ma
+erano molto candidi quando giuravano, sempre per bandire la politica
+dall'arte, ch'io non sapevo la grammatica. Piú lepido un terzo, che,
+a proposito del _Satana_ riprodotto o ricitato a ogni momento dai
+giornali del partito, mi paragonava al Trabucco col suo corno. Oh, bei
+giorni eran quelli!
+
+Distanti dalla poesia democratica e distinti dai seguitatori del Prati
+dell'Aleardi e dello Zanella, stavano in disparte tre o quattro, i
+quali parevano, che che alcuno di loro affermasse in contrario, cercare
+e seguitare l'arte per l'arte. Erano il Tarchetti, lo Zendrini, il
+Praga.
+
+Se non che Iginio Tarchetti, per gli intendimenti d'alcuno de' suoi
+racconti, raccostavasi ai democratici. Ma ci voleva quell'ambiente, o,
+meglio, quella mancanza d'ossigeno, per proclamare la grandezza dei
+racconti del povero Tarchetti. Si scambiava il contenuto e l'intento
+per l'arte: si diceva — Non c'è forma, la prosa è brutta, ma il romanzo
+c'è ed è bello —; come se senza forma arte ci sia, come se una trovata
+o un episodio o un frammento sia il romanzo, come se, scrivendo male,
+si scriva bene. Ci furono paragoni con Vittore Hugo e col Balzac. Eh
+via, ragazzi! Ma io non voglio parlare di prosa. A proposito dei versi
+del Tarchetti, il buon Domenico Milelli, che ne fa di incomparabilmente
+migliori, uscí una volta a dire che nell'anima di lui erano fuse
+due grandi anime, quella dell'Heine e quella del Leopardi. Non mai
+fu nominato cosí in vano il nome di Dio; ma tali bestemmie sono
+conseguenze di quel sentimentalismo estetico che al Lamartine faceva
+trovare piú genio in una lacrima che in tutti i poemi del mondo. Il
+Tarchetti visse povero, e morí giovine. Me ne duole; e mi adiro con chi
+non gli die' lavoro o il lavoro non compensò: forse anche mi adiro con
+la società che lascia morire di fame uomini d'ingegno e d'animo quale
+il Tarchetti. Ma per ciò devo dire che quella robetta è poesia? No: io
+dico che l'ammirazione pel sonetto _Ell'era cosí gracile e piccina_ è
+una miserabile prova del rammollimento di cervello a cui quella che il
+Proudhon chiamava _scrofola romantica_ avea condotto la gente.
+
+Ma il Tarchetti non pretendeva molto a poeta. Chi ci pretendeva con
+tutte le intenzioni e con tutto lo studio era Bernardino Zendrini.
+Molte buone parti aveva lo Zendrini: anzi tutto, conoscenza franca, se
+bene qua e là frastagliata di lacune e pregiudizi, delle letterature
+straniere, e con ciò intelligenza delle cose nostre anche vecchie,
+rispetto, almeno in teorica, alla tradizione nazionale, vivido ingegno
+osservatore, idee chiare determinate ardite, e una grande smania di
+fare e di riuscire. Ma in lui l'uomo sopraffaceva l'artista; o forse
+l'artista e l'uomo si nuocevano l'un l'altro e cospiravano a fargli far
+male. Leggero, irrequieto, sprezzante, provocatore (dico lo scrittore,
+e anche l'uomo per quanto traspariva dalla scrittura: del resto non
+conobbi né di persona né per lettera mai lo Zendrini), non avea la
+forza muscolare e la pienezza sanguigna pari alla mobilità nervosa;
+onde la sproporzione quasi continua nell'opera sua fra l'intenzione
+e l'atto, fra il volere e l'operare, fra l'idea e la forma. Tale
+disuguaglianza di forze e la preoccupazione del critico e polemista
+turbavano le percezioni del poeta e gli rendevano tremante lo spirito e
+lo stile. Voleva mostrare gentilezza di affetti, e dava in ismancerie:
+voleva apparire ingenuo, e cascava in bambocciate: voleva riuscire
+spiritoso, ed erano smorfie: voleva osare una sprezzatura o di pensiero
+o di stile, e gli scappava uno scarabocchio: voleva provocare i
+rischi dell'arte, e dava un tuffo nel grottesco e nello sgarbato. Le
+cose sue originali meglio riuscite (_I due tessitori_, _Monotonia_,
+_La poesia non muore_, ecc.) rientrano per la concezione e per la
+forma nel ciclo della poesia anteriore, della seconda generazione dei
+romantici. Quando volle fare qualcosa di nuovo, di vero, di famigliare,
+riuscí affettato, freddo, falso; non riuscí, in somma. Ma con la
+forza di volontà perseverante, col sentimento che aveva di rispetto
+per l'arte, l'avrebbe finalmente, io credo, spuntata. Gli bisognava,
+per ciò, contenersi, vincersi, rafforzarsi, curare i nervi; ed egli
+lo sentiva e lo voleva. Io ebbi a vedere, non per volontà sua, i
+lavorii di rifacimento ond'egli torturò e su i margini e nelle carte
+interfogliate le prime due stampe della traduzione di Heine. È un
+lavoro mirabile di pazienza e buon giudizio, che gli fa perdonare le
+sciattezze e le durezze incredibili del primo tentativo. In fatti nella
+terza edizione ci sono parecchi pezzi rifatti di pianta, e tanto in
+meglio, che meritano di esser recati ad esempio di buona versione, e
+insieme sono documenti, nelle trasformazioni subíte, della meditazione
+e dell'esercizio che occorre al lavoro dello stile, se pure in Italia
+v'è ancora chi badi allo stile. Povero Zendrini! egli mancò all'arte,
+quando, forse quietato, stava per rinnovellarsi.
+
+Questo avere a parlare tuttavia di morti, e morti di fresco, è
+spiacevole, e mi è, lo so, pericoloso in faccia ai lettori. Ma che
+ci ho che fare io se sono morti? Magari fossero vivi! Combatteremmo
+ancora. _L'uom s'affronti con l'uom: pugna è la vita._ Parliamo,
+dunque, con quella conscienziosa e meditata libertà e schiettezza della
+quale gl'italiani han troppo bisogno, parliamo anche di Emilio Praga,
+il quale nel 70 aveva già, si può dire, compiuta la sua ascensione
+in poesia. Quelli che allora affettavano non parlarne, quelli che
+inorridivano alle sue stramberie, quelli che aborrivano la sua
+indifferenza d'artista dirimpetto alle questioni politiche e sociali,
+quelli che allora scrivevano azzurro (cioè turchino di Prussia,
+qualità inferiore), quelli ora vociano innanzi a tutti e piú di tutti
+il _realismo_ e la _originalità_ sconfinata di Emilio Praga. Povero
+Praga, realista lui? lui inzuppato, anzi ammalato, d'idealismo? lui che
+d'idealismo morí? Realista lui? coi languori delle fantasticherie, con
+la vaporosità nella linea, con la indeterminatezza dell'espressione,
+con l'astrattezza e la stranezza bizzarra e senza scopo delle metafore?
+Egli nella terza generazione dei romantici fu piú poeta di tutti; ma in
+lui piú che in tutti covò la malattia ereditaria, sin che scoppiò d'un
+tratto in quel temperamento amabilmente femmineo; e fu tifo fulminante.
+L'originalità del Praga! Sí certo, il Praga ebbe una originalità,
+ma non quella che dite voi! Avete letto Vittore Hugo, il Heine, il
+Baudelaire? Ma quello che voi nelle poesie del Praga proclamate di piú
+era già nell'Hugo, nell'Heine, nel Baudelaire. Se non che le trovate e
+le scappate dell'Heine egli le allunga e stempera un po' lombardamente.
+Ma della tinta dell'Hugo ebbe colorite fin le intime fibre della sua
+poesia, come dicono che le ossa delle bestie che hanno pasciuto la
+robbia si trovino chiazzate di rosso. Ma del Baudelaire ripete non
+pure le innaturalezze e le irragionevolezze cercate ad effetto, non
+pure le bruttezze stupide (dico cosí perchè è proprio cosí), ma le
+mosse e le flessioni del verso, ma i metri ed i ritornelli. Quello fu
+il periodo acuto della malattia; poi successe la polmonite, e il poeta
+finí ripiagnucolando le solite nenie. E aveva fatto a volte di sí belle
+cose! La sua originalità è quel trillo di lodola, è quel fresco d'acqua
+corrente per una selva di castagni, quella immediata e lieta e sincera
+percezione della natura, quella bonomia arguta tra di campagnuolo e
+di pittore, che si sente, si vede, si ammira in alcune sue prime e piú
+ingenue poesie.
+
+Al Tarchetti, allo Zendrini, al Praga il settanta chiuse le porte; le
+aprí ad Arrigo Boito, il quale fu un po' di quella brigata, se bene
+egli proceda piú direttamente dal romanticismo fantastico di Germania.
+Fu di quella brigata anche Vittorio Betteloni, sí per la consuetudine
+d'amicizia sí per alcuni intendimenti d'arte; ma egli dal romanticismo
+o fantastico o sentimentale uscí presto, se mai vi s'era avvolto, e
+uscí tutto.
+
+Vittorio Betteloni pubblicò nel 1869 il suo libro _In primavera_.
+
+Ne parlarono con molto calore gli amici del poeta e alcuni dei fogli
+letterari d'allora; ne sparlarono con rimpianti su le speranze male
+spese, i maestri e dilettanti della poesia da parrucchieri. Ma il libro
+non fece, fuor dei cerchi degli amici, gran viaggio: a Bologna non
+arrivò: io lo lessi solo nel 75 in Verona. _Habent sua fata libelli._
+Il settanta schiacciò insieme a tante cose grosse e malvage anche quel
+povero libretto innocente, o _di sua preda lo coverse e cinse_. Ma chi
+consigliò il Betteloni di venir fuori con tali versi nel 69, quando
+le sale eleganti erano tutte ancora impregnate di aleardismo, quando
+nelle strade fremeva a mezz'aria la poesia politica, quando, al di là
+della letteratura officiale o d'opposizione, fra tanta ardenza di parti
+e di questioni in casa e tanta trepidazione di turbini al di fuori, a
+pena si facevano badare le accese audacie del Praga piú come un babau
+pei borghesi che come baleni di arte nuova? Ma molti di cotesti versi
+il Betteloni gli aveva scritti fin dal 63, nel fresco mattino della
+giovinezza, e non voleva tenerli lí a muffire che perdessero stagione.
+
+Oggi che abbonda, a quello che pare, la voglia di leggere versi è un
+peccato non si legga o non si rilegga la _Primavera_ del Betteloni, che
+è dei migliori libri di poesia usciti fra noi in questi ultimi anni e
+il solo libro _di giovinezza_ uscito da molti anni in Italia. Con ciò
+io non vo' riuscir a dire che il Betteloni sia maggiore o miglior poeta
+d'un altro, o che la sua sia poesia piú vera (è il termine di moda)
+della poesia d'un altro. Per me il porre la questione su 'l piú o il
+meno d'ingegno di due o piú poeti o scrittori è un esercizio troppo
+sublime o troppo accademico sí che abbia a perdervi tempo la gente che
+ha da far qualche cosa. Su la maggiore o minor verità ed efficacia
+della rappresentazione poetica non sarebbe per avventura inutile
+studiare e discutere, quando la questione fosse posta avanti bene e
+ragionevolmente. Ognuno, del resto, fa quella poesia che vuole; ognuno
+si mette in quella luce in quel riflesso in quell'ombra di verità che
+gli piace: cotesto è il suo diritto. Il suo dovere poi è di far bene,
+tenendosi in quella luce in quel riflesso in quell'ombra di verità
+che si è scelto. _Ognuno_ dissi; e intendevo ognuno che è poeta e si è
+educato artista. Per la canaglia che perpetra strofe un po' di Melikoff
+non guasterebbe.
+
+Il Betteloni fu, come accennai, il primo in Italia a uscire del
+romanticismo, pur componendo in lirica il romanzo di un giovine dai
+venti ai vent'otto anni; romanzo, s'intende, d'amore, anzi delle tre
+età, come egli dice, dell'amore, l'età dell'oro, l'età dell'argento,
+l'età del bronzo. Quel giovine, che è poi il Betteloni stesso, non è
+propriamente sentimentale; e pure nessuno dei nostri poeti moderni,
+oso dirlo, ha rappresentato o verseggiato il primo amore con quella
+rugiadosa freschezza che il Betteloni nel _Canzoniere dei vent'anni_
+(età dell'oro). Quando la ragazza popolana lo pianta per un bel
+pezzo di marito della sua condizione, egli non fa il Werther né il
+Don Giovanni: ideale per altro resta un po' sempre, con una vena di
+malinconia che serpeggia tra le sue immaginazioni burlone e le sue
+bonarie malignità. Persevera buon ragazzo, se bene piú allegro, nel
+canzoniere _per una crestaina_ (età dell'argento), che poi si risolve
+a lasciare, perché un giovine come lui, di buona famiglia, ha da
+sposare una signorina con della dote, che tormenti il piano e storpi il
+francese. Il terzo canzoniere, cinquanta sonetti _per una signora_ (età
+del bronzo), della quale il poeta s'è innamorato senza sapere che fosse
+maritata e la quale non sa che egli sia innamorato di lei, finisce
+cosí:
+
+    E lascia poi che da te lunge io sia,
+    Che solitario la mia fiamma esali
+    Nel vapor di innocente poesia.
+
+Qui i don Giovanni trionfatori e violatori della grammatica e della
+prosodia accuseranno subito un gran puzzo d'idealismo e d'arcadia. No
+veramente. Uno, prima di tutto, può dell'amore e della vita in generale
+avere un ideale assai alto senza ch'ei professi per nulla l'idealismo
+convenzionale; e questo, fra gente seria ed onesta, non importerebbe né
+meno avvertirlo. Come scrittore poi, il Betteloni ha della realità un
+senso squisitissimo, e il ridicolo dei contrasti e delle contraddizioni
+fra la mobilità dello spirito appassionato o accaldato e la immobilità
+seria delle cose ei sa coglierlo e renderlo con quella bontà comica che
+è l'anima dell'_umore_ di buona lega.
+
+_In primavera_ è, come dissi, un libro di giovinezza; e per ciò la
+passione, la passione, s'intende, colpevole o viziosa, non c'entra,
+o almeno non vi regna. Il poeta da prima descrive e canta l'amore,
+prorompimento inconscio, scarlattina dell'anima a diciannove anni;
+poi il piacere di fare all'amore con una bella e allegra creatura,
+di passeggiare e ballare con lei, di ascoltare le sue ciarle e suoi
+dispiaceri e le bizze su quello che è il suo contorno il suo piccolo
+mondo. Da ultimo l'amor vero, anzi a certi momenti la passione,
+si prova a metter fuori la punta, ma è la punta dell'ala. Perocchè
+l'autore sa reprimere e vincere la passione, un po' per sentimento di
+dovere, ma piú anche per certa schiva ritrosia di poeta e per affezione
+alla serena quiete dell'arte. To', o non può anche darsi? Sarebbe bella
+che, perchè viviamo nell'età dei rammollimenti sentimentali o sensuali
+e delle eccitazioni nervose, nel secolo del caffè e dell'alcoolismo,
+non ci fosse piú uno che sapesse resistere a una passione e vincerla,
+non sapesse infrenare la inferiore animalità, senza guaire, senza
+contorcersi, senza mostrare le sue piaghe alle stelle, con la forza,
+con la dignità, con la decenza d'un uom fatto bene. L'effetto che vi
+produce il libro del Betteloni è questo, che voi prendete in affezione
+il poeta perchè è naturalmente buono, e poi lo stimate perchè è sensato
+e vero.
+
+La verità di quella poesia risulta da piú ragioni, di fatto e di arte.
+Il Betteloni prima di tutto rappresenta ed esprime proprio sé stesso,
+senza esagerazioni e senza caricature: non dico senza qualche carezza,
+ché non sarebbe credibile. È un giovine della vecchia borghesia
+benestante e bene educata, con una vena d'originalità non chiassosa,
+col ticchio dell'arte, con l'intiera libertà e signoria di sè. Nulla
+dunque del Byron e del Leopardi, e nulla né pure del De Musset. Non
+direi parimente, nulla del Heine, perchè la posizione poetica, nelle
+prime due parti almeno de' due canzonieri, si rassomiglia assai; e il
+colpo di sole del Heine anche il Betteloni l'ha avuto, ed in pieno; ma
+soltanto, parmi, del Heine dell'_Intermezzo lirico_ e del _Ritorno_. Se
+non che a mano a mano la coloritura heiniana è assorbita o assimilata,
+e il poeta italiano a forza di riflessione riesce solo sé stesso.
+Perché una qualità notevole del Betteloni poeta è questa: che egli
+non si ferma alla superficie, senso o sentimento che sia, come per lo
+piú i nostri; e né meno si abbandona alle troppo comode volate della
+_réverie_ e del _sehnsucht_ (vocaboli che non si possono tradurre in
+italiano né pure a un di presso, tanto le affezioni che e' significano,
+almeno nella sistematica convenzione moderna, sono aliene dalla nostra
+natura); ma discende in sé stesso, e arriva a cogliere nella percezione
+e nella coscienza le ragioni ultime e le variazioni e le forme intime
+del fenomeno psicologico e fantastico; ragioni e forme che, idealizzate
+nella riflessione artistica, di particolari che erano divengono
+generali, e sono il nerbo della rappresentazione poetica: che se in
+quel passaggio la caratteristica individuale del poeta non va perduta,
+allora è il caso dell'originalità soggettiva. E questo è il caso del
+Betteloni.
+
+Il quale, per esempio, è il solo, credo, dei poeti odierni italiani,
+che abbia osato mettere dentro i suoi versi il proprio nome e cognome.
+Ma come bene! Fra l'altre una volta egli sogna, sogna soltanto, di
+suonare alla porta del villino della donna amata e non amante: sogna di
+trovarla come desidererebbe meglio; ma c'è il medico e il pievano, che
+al vederlo battono le mani: Ecco il quarto, ecco il quarto per il _tre
+sette_. E si giuoca. Ma il giuoco dovrà pur finire, ma gli importuni
+se ne anderanno, ed egli rimarrà solo con lei. A un tratto s'abbuia, e
+brontola il temporale. Il medico e il pievano si levano su per partire.
+Egli duro. Ma la signora _in atto di tutta gentilezza e cortesia_ gli
+dice:
+
+    O signor Betteloni, anch'ella presto
+    S'affretti a casa e pel cammin piú corto,
+    Ché per via non la colga un tempo tale.
+
+Leggendo questi versi, altri me ne rifiorivano in mente, d'un
+concittadino antico del Betteloni, di Catullo, che anch'egli amava di
+mettere spesso e bene ne' suoi versi il suo nome:
+
+    Quaeso, inquit, mihi, mi Catulle, paulum
+    Istos; commode enim volo ad Serapim
+    Deferri. Minime, inquii puellae.
+
+Questa è verità italiana.
+
+Perchè, a dir vero, la verità di certi veristi sarà di qual paese
+piaccia meglio ai lettori o all'autore, ma verità italiana non è di
+certo: ora la verità, per esser verità vera, ha da essere anche locale,
+e quella dei su lodati veristi di locale, cioè d'italiano, non ha
+nulla, nè meno la lingua; ché lingua italiana non può chiamarsi quella
+miseria di cento linfatiche parole con le quali quella povera gente si
+arrapina a rattoppare gli sdruci delle sue versioni da qualche poeta
+francese di terzo o quarto ordine. Ora il Betteloni non solo seppe
+percepire il vero della vita odierna italiana con elezione d'artista,
+ma lo seppe verseggiare con lingua varia abbastanza se non sempre
+finissima, con stile sempre suo e spesso accurato.
+
+Io dissi a dietro che nessuno fra noi aveva _cantato_, direbbe
+un'accademico, io dirò _commemorato in poesia_, il primo amore con la
+freschezza del Betteloni. Non mi disdico, pur ripensando alle terzine
+del Leopardi: quella del Leopardi è passione speciale, in certe
+condizioni, stupendamente sentita e resa; mentre il primo amore del
+Betteloni è il caso generale, che tutti gli anni si rinnova, a cui
+tutti, se non fummo ceppi o peggio, ci siamo trovati. Giudichino i
+lettori.
+
+    Poi ti tenevo dietro piano piano,
+      Com'è costume dei novelli amanti,
+    Pur di scorgerti solo da lontano,
+      Senza parere agli occhi dei passanti:
+
+    E tu con atto cauto e sospettoso,
+      Per non mostrar che a me ponessi mente,
+    Volgevi a mezzo il capo tuo vezzoso,
+      Ad or ad or, non molto di sovente;
+
+    Ma non molto di rado tuttavia,
+      Temendo pur che addietro io fossi troppo,
+    O non pigliassi a caso un'altra via,
+      O in qualche amico non facessi intoppo.
+
+    Quindi arrivata, ancor sul limitare
+      Il piede soffermavi un breve istante,
+    Là t'arrestavi a rapida guardare
+      S'io pur non ero tuttavia distante;
+
+    Poscia, fatte le scale in un momento,
+      Al terrazzo accorrendo t'affacciavi;
+    Io ti venivo innanzi, lento, lento,
+      Tu col sorriso allor mi salutavi.
+
+È proprio cosí che erano fatte le nostre amanti, ahimè di venti e
+piú anni fa! Salvo che noi allora eravamo o troppo classici o troppo
+romantici, e, anche dato avessimo avuto la grazia e la naturalezza del
+poeta veronese, non ci sarebbe mai passato per la testa che si potesse
+in italiano far dei versi graziosi e naturali come i seguenti, mentre
+pure le cose dette in quei versi le sentivamo, le vedevamo, le notavamo
+anche noi. E sí che Catullo lo sapevamo quasi a mente; Catullo, che,
+dove non è sporco o troppo alessandrino, poteva e può esser maestro
+di poesia vera a noi e ad altri: tant'è vero che nulla di nuovo c'è
+sotto il sole e in arte non c'è progresso: quello che il volgo scambia
+per progresso è la modificata rinnovazione di certe fasi nei cicli
+ritornanti.
+
+    E' fu in piazza di Santa Caterina
+      Ch'io d'amor le parlai la prima volta,
+    Era l'ora che il sole ornai declina,
+      Ora dolce e raccolta.
+
+    Cinto d'intorno è il loco d'alte piante
+      Dove a fatica si conduce il sole,
+    Dove l'aria s'infosca un'ora innante
+      Che in Lungarno non suole.
+
+    Or io che avea da qualche dí osservato
+      Com'ella per di là venia sovente,
+    Là per tre sere postomi in agguato,
+      L'incontrai finalmente.
+
+    Ella arrossisce e affretta il piè veloce,
+      Io me le accosto, me le faccio ai panni,
+    Pur me ne trema l'anima e la voce,
+      Oh vent'anni! oh vent'anni!
+
+    Parlare a lei! ma s'ella s'offendesse
+      D'uom che volger le ardisce la parola,
+    Se l'ale che nasconde ella schiudesse,
+      Nume che all'uom s'invola!
+
+    Roseo mister di grazia e di bellezza
+      Tutto sgomento innanzi a te son io,
+    M'avventuro all'impresa all'arditezza
+      Di trovarmi con Dio!
+
+    Ella pur non s'offende e porge ascolto;
+      Mentre parlo mi guarda, si dipinge
+    Di grazïosa meraviglia in volto,
+      Non conoscermi finge.
+
+    Cari quegli occhi intenti e menzogneri,
+      Mamma indarno a mentir sí ben v'apprese;
+    Occhi, mi sorrideste in atto ieri
+      Troppo, troppo cortese!
+
+    Io però tiro avanti; e piú coraggio
+      Piglio da ciò, che il piede ella rallenta,
+    Ch'ella alfin sosta, che quel mio linguaggio
+      La fa piú sempre attenta.
+
+    E davvero facondo allor mi faccio;
+      Tutto le dico il dolce sentimento
+    Ch'ella m'ispira, tutto, non le taccio
+      Nulla di quel che sento.
+
+    Ella stupisce e credermi non vuole;
+      Con interrotte voci esce talora;
+    Chinando il capo, delle mie parole
+      Il nettare assapora.
+
+    E il nastro del grembiule in man si prende,
+      Giocando se lo attorce al roseo dito,
+    Mentre il suo cor dalle mie labbra pende
+      Trepidante e smarrito.
+
+Rileggendo questi versi, mi sento attorno come il triste profumo d'un
+mazzetto di rose appassite in un cassetto di legno. Sono forse le
+memorie che quest'alito di poesia veramente giovenile la risentire nel
+cuore? Per non dare un tuffo nel sentimento, mi rifugio nella lingua;
+rifugio e scampo antico a noi italiani dal pericolo di pensar vero
+e di parlar sinceri. _Ora dolce e raccolta_, indovino che cosa vuol
+dire, ma non giurerei che quelle parole lo dicessero chiaro e netto.
+_Fare intoppo in uno_, temo sia una frase a rimembranza sbagliata: _dar
+d'intoppo_ è di qualche classico, della lingua parlata è _intoppare_.
+_Un'ora innante_, _indarno_, _poscia_, _ella sosta_, se oramai non
+sono locuzioni accademiche, certo in quello stile non vanno; e il _pié
+veloce_ è troppo eroico per una ragazzina. Di sí fatte mende nella
+dizione del Betteloni ce n'è. Ma del resto la lingua sua poetica di
+quanto è superiore per proprietà, e anche per certa ricchezza, a quel
+gergo d'idioti cenciosi ed ebri che erutta spropositi nei cento mila
+versi, piaghe settimanali di questa dolcissima _terra de' fiori e de'
+carmi_. E la ragione è che la lingua il Betteloni l'ha studiata anche
+nei classici e sui classici s'è anche educato un tantino lo stile.
+Tant'è: la tradizione letteraria, in una poesia che comincia con
+Dante, non si deve, né si potrebbe, anche volendo, interrompere: siate
+rivoluzionari quanto volete, avrete, per quello che è verità e audacia
+d'espressione, da imparar sempre qualche cosa da Dante, per esempio, e
+dal Pulci, dinanzi alla cui luce le vostre frasi faranno l'effetto di
+lumi a mano a mezzogiorno. Vero è che bisogna distinguere fra classici
+e classici. Il Betteloni professa di avere appreso nel Poliziano e
+nell'Ariosto _il lesto far disimpacciato e schietto_, e il Poliziano e
+l'Ariosto erano designati dallo Zendrini fra gli antesignani della sua
+idea di stile in poesia. La scelta non poteva esser migliore. Infatti
+l'impasto di lingua che ci vuole per la poesia del vero, l'Italia
+l'ebbe piú specialmente, salvo sempre le grandi eccezioni del trecento,
+in quel tratto di tempo che va da Masaccio alla morte del Vinci, quando
+la giovine arte del rinascimento s'informò tutta, o quasi tutta, al
+vero umano: l'ebbe non pur nel Poliziano e nell'Ariosto, ma nel Pulci
+nel Medici ne' minori autori di farse di ballate di rime popolari, ed
+è, con pochissime differenze e non in peggio, quella stessa lingua un
+cui rivoletto si credè scoprire con fastidioso spirito accademico nei
+soli rispetti cosí detti del popolo toscano.
+
+Altro e miglior esempio del valore lirico del Betteloni è la canzone
+della crestaia e del sole, dove la fusione del reale col fantastico,
+del sentimento umano e del panteistico senso della natura, del
+linguaggio che discorre e della favella che canta, della frase che
+colorisce e della strofe che vola, è riuscita in piccole proporzioni a
+meraviglia.
+
+    La giovinetta presso
+      Dell'alta invetrïata
+    Siede cucendo, spesso
+      La maestra la guata,
+    E in soggezion la tiene;
+      Che se non fosse questo,
+      Il lavoro molesto
+    Non andrebbe assai bene.
+
+    Or primavera invade
+      Penetra tutte cose;
+    Passa dall'ampie strade
+      Nelle dimore ascose;
+    Anco nell'officina
+      Della fanciulla mia
+      Il Sol trova la via
+    Traverso la vetrina.
+
+    Balza a lei sul lavoro
+      Vispo e disturbatore
+    E con le dita d'oro
+      Picchia al suo giovin core;
+    Poscia lusinghe arcane
+      Comincia a bisbigliare:
+      Voglia di lavorare
+    Già piú a lei non rimane.
+
+    «Io sono il Sol di maggio,
+      Che a venire t'invito
+    A farmi, o bella, omaggio
+      Nel mio regno fiorito:
+    All'aperto io soggiorno
+      Sopra il colle vitato,
+      Sull'ondeggiante prato
+    D'erbe novelle adorno.
+
+    Vo per gli orti a diletto;
+      Sulle aiuole mi sdraio;
+    Serba a me l'augelletto
+      Il trillo suo piú gaio...
+    Non hai hai, bimba, un amante,
+      Che un giorno a me ti meni,
+      Ne' regni miei sereni,
+    Fra delizie cotante?»
+
+    — «Deh, mio leggiadro Sole,
+      Volentieri io verrei,
+    Ma la mamma non vôle;
+      L'amante ce l'avrei,
+    Ma il cuore me ne geme,
+      Star mi tocca a sedere,
+      Delle giornate intere,
+    A metter cenci insieme.
+
+    Dalle porte sovente
+      Esco, è vero, di festa;
+    Ma c'è allor troppa gente
+      Che i piú bei fior calpesta;
+    E un augellin non s'ode,
+      E non poss'io provare
+      A correre, a saltare,
+    Come il desío mi rode.
+
+    Ho voglia tutto un giorno,
+      Sia nel prato o sul colle,
+    Di scorrazzare intorno;
+      E poi nell'erba molle
+    D'avvoltolarmi alfine;
+      Far di belle cantate,
+      Far di belle risate,
+    Che non abbian piú fine.
+
+    E vorrei coglier fiori,
+      E farfalle inseguire,
+    E dell'acque i romori
+      Stare un poco a sentire;
+    Mangiar frutta e non manzo,
+      Di rosse fraghe un cesto,
+      E che ciliege il resto
+    Fosse del nostro pranzo.
+
+    Tanto io n'avrei desio
+      Che piú non trovo loco:
+    Vorrei l'amante mio
+      Farlo ammattire un poco;
+    Dove andar non pensasse
+      Ed io tosto avvïarmi,
+      E che i nidi a pigliarmi
+    Sui pini arrampicasse.» —
+
+E dire che l'Aleardi, il quale pure era stato banditore ardente alle
+prime poesie dello Zendrini, l'Aleardi si scandalizzò di questa roba e
+piangeva sul figliuol prodigo. Se non che il poeta della crestaina avea
+fatto, a dir vero, di peggio:
+
+    O bella, un dí t'ho vista
+    Entrar dal tabaccaio,
+    E anch'io facendo vista
+    Che m'occorresse un paio
+    Di sigari v'entrai;
+    Là per la prima volta ti parlai.
+
+A questo punto non vi sto a dire che i Romei parrucchieri gli negarono
+a dirittura il saluto. E le Giuliette, quando s'avvennero a leggere,
+
+    Si stava assai benino
+    Un tempo alla _Regina_,
+        Buona cucina,
+        Ottimo vino...
+    T'avrei del fritto scelti
+    I piú dolci pezzetti,
+        E per te i petti
+        Al pollo svelti...
+
+buttarono il libro e ricorsero all'acqua di Colonia. Sfido io,
+poverette! erano avvezze a una goccia di rugiada entro una foglia di
+rosa per tutto pasto.
+
+Io non dico, del resto, che coteste sieno le cose piú belle del
+canzoniere del Betteloni, e non nego che in quel canzoniere ci siano
+delle lungaggini prosaiche e certe interpolazioni non d'ottimo gusto,
+e qualche bizzarria a freddo, e un po' d'esagerazione sistematica,
+che, sia pur del naturale, offende l'arte. Ma a chi si dolesse di tali
+difetti il Betteloni può, per rifargli la bocca, offrire sonetti come
+questi:
+
+    Quassú nel lago nostro un'alga cresce
+    Che quanto ha lungo il gambo è in acqua immersa;
+    Solo con poche foglie in alto ell'esce;
+    Ma, se a luglio su questo il ciel non versa
+
+    Stilla di pioggia, in guisa tal le incresce,
+    Che a dissetarla tanta e cosí tersa
+    Onda che intorno ell'ha piú non riesce,
+    E langue e inaridisce e va sommersa.
+
+    Io sono in abbondanza d'ogni bene,
+    Ma sul mio cor stilla dal ciel non scende;
+    Ahi l'amor tuo, leggiadra, a me non viene!
+
+    Quindi langue lo spirto e mal contende
+    Al gorgo che lo affonda in basse arene...
+    E il fango immenso sovra me si stende.
+
+                                  —————
+
+    Quand'ella passa io tremo e m'abbandona
+    Ogni fermezza: un sibilo leggero
+    Mettono le sue vesti, il qual mi suona
+    Pur come scherno meritato e vero.
+
+    Quinci la fantasia fra sé ragiona
+    «O vaghe vesti cui s'affida intero
+    Il segreto gentil di sua persona,
+    Vesti cui non si cela alcun mistero,
+
+    Parte ditemi almen di questo arcano,
+    Soave arcano, ch'è fra voi nascosto
+    E dietro al qual la mente io sforzo invano.»
+
+    Ahi! non rispondon quelle, e con piú cura
+    Stringonsi al vago corpo, e di quel posto
+    Traggon partito e de la lor ventura.
+
+Nel 75 il Betteloni pubblicò tradotto in ottava rima il piú bello
+episodio del _Don Giovanni_ di Byron, l'Aidea. La scelta del
+soggetto e del metro è già un indizio di ottimo gusto e un segno di
+virtuoso ardimento. E qui gli soccorse in buon punto lo studio messo
+nell'Ariosto; la cui elegante disinvoltura e la mirabile volubilità
+io non dirò che il Betteloni abbia raggiunta, ché sarebbe troppo,
+anche perché fra altre ragioni io non credo si possa con la lingua
+d'oggi e nella poesia moderna raggiungere. Nè dirò che perfettissima
+sia nell'_Aidea_ la dizione, che qualche neologismo, qualche durezza,
+qualche ineleganza non si sarebbe potuta evitare. Ma dico senza dubbio
+che questa del Betteloni è delle migliori versioni poetiche moderne,
+ed è la miglior versione in ottava rima che abbia l'Italia, da quella
+in poi della _Pulcella_ fatta dal Monti; che non è poco, chi ripensi
+la maggior varietà e difficoltà del poema byroniano e la signorile
+felicità del verseggiare di Vincenzo Monti.
+
+Forse maggior fatica dee aver posto il Betteloni nella traduzione
+dell'_Assuero_ di Roberto Hamerling, ch'ei diè nel 76: e certo in
+quella foltezza quasi metallica di poesia descrittiva il verso sciolto
+italiano, per vigorosa industria del traduttore, trionfa di nuovi
+atteggiamenti a prova col giambico tedesco. Ma io non lo consiglierei
+a mettere i suoi begli anni in quella sorta di lavori. Finisca il _Don
+Giovanni_, e basta.
+
+Ora il Betteloni si ripresenta all'Italia artista sul proprio con
+questi _Nuovi Versi_. Io auguro al valente e modesto poeta dai lettori
+intelligenti quella onesta attenzione e accoglienza, che le prime liete
+prove, le fatiche poi durate nell'arte, e il rispetto all'arte, e la
+serietà degl'intendimenti, e la matura originalità dell'ingegno, gli
+promettono e gli meritano.
+
+                                                     GIOSUÈ CARDUCCI.
+
+
+
+
+NUOVI VERSI
+
+
+
+
+IDEALE
+
+
+    Come arrivarti, o idolo
+    Fatal che sì m'attiri?
+    Sei tu sogno o fantasima
+    Di mente che deliri?
+    Non hai quaggiù tu stanza,
+    Nè forma nè sostanza
+    Fuor che nel mio pensier?
+
+      Pure io non sono a pascermi
+    Di vacue larve avvezzo,
+    O se già fui, le imagini
+    Or cancellai da un pezzo,
+    Che ignara fantasia
+    Pinse alla mente mia
+    Nel tempo suo primier.
+
+      Ebbi varcato i limiti
+    D'adolescenza appena,
+    E non cercai nell'etere
+    De' versi miei la scena;
+    Cercai soggetto al canto
+    Fra gli uomini soltanto
+    Presso e dintorno a me.
+
+      Forse non più tra gli uomini,
+    Che tra le donne invero...
+    Or quell'ingenuo palpito
+    Più in me destar non spero;
+    Ma nell'immenso vano,
+    Fuori del senso umano,
+    La poesia non è.
+
+      Sol la natura e il vario
+    Gioco di nostra vita
+    A rallegrarci, a piangere,
+    A poetar ci invita;
+    E là ti celi, o mio
+    Bello e tremendo iddio,
+    Ch'io vo cercando invan.
+
+      In vaghe forme e labili
+    Bensì m'appari spesso,
+    Ma come io credo giungerti,
+    Tu fuggi al tempo stesso:
+    Così crudel miraggio
+    Per corsa e per viaggio
+    Non meno è a noi lontan.
+
+      Nei mille aspetti scorgerti
+    Della natura io credo.
+    Talor nelle più tenui
+    Parvenze pur ti vedo;
+    In valli oppur sui monti,
+    Nell'alba e nei tramonti,
+    In riva ai laghi e al mar,
+
+      Di bimbi e vaghe femine
+    Nel riso e nello sguardo,
+    Nei tre color siderei
+    Dell'italo stendardo;
+    E qual così scoprirti
+    In vario aspetto, udirti
+    In vario suon mi par.
+
+      Nel primo che alle vergini
+    Accento strappa amore,
+    Nel primo ancor che al pargolo
+    Accento insegna il cuore,
+    In ogni suon che molce
+    L'anima, la tua dolce
+    Voce udir sembra a me.
+
+      Ma degli insurti popoli
+    Nel grido, e nel concento
+    Dell'inclite vittorie
+    La tua gran voce sento,
+    E più il mio cor l'intese
+    Quando il gentil paese
+    Pianse l'onesto re.[1]
+
+      Ma che mi val l'ingenito
+    Amor di ciò che è vero.
+    Di ciò che è bello e nobile,
+    Se ad esso il magistero
+    Pari non è dell'arte,
+    Se far le oscure carte
+    Specchio di quel non so?
+
+      Così sfinge adorabile
+    Mi avvolge di possenti
+    Misterïosi fascini;
+    Ma delle renitenti
+    Forme ch'io sogno e adoro
+    L'alto segreto ignoro,
+    Nè inter mai lo saprò.
+
+      Mi lambe intanto gl'intimi
+    Precordi un tetro foco,
+    Ond'io mi crucio, ed essere
+    Non può che di me gioco
+    Faccia così una mera
+    Imagine, chimera
+    Fantastica, ideal.
+
+      Diva Beltà ch'io medito
+    Tu un sogno sol non sei;
+    Così potessi io giungerti;
+    Stringermi a te vorrei
+    In sì possente laccio
+    Ch'io ti morissi in braccio
+    Facendomi immortal.
+
+
+
+
+TRAGEDIA UMILE[2]
+
+
+IL PROLOGO
+
+    Una fanciulla sedicenne e ignara
+    Degli inganni d'Amore a lui si diede,
+    Che sedurla si piacque
+    Sotto sembianze di gentil garzone.
+    Ed or che il testimone
+    Ella del proprio errore in grembo porta,
+    Per vergogna e dolore
+    Insoffribil la vita le si rende,
+    Ed in funesti entusiasmi assorta,
+    L'atro braciere accende,
+    Sè stessa offrendo a morte e di sè stessa
+    Il frutto, il dolce frutto.
+    All'umile sua stanza innanzi tutto
+    Tura gelosamente ogni pertugio;
+    Di poi sul proprio letticciuol distesa,
+    Chiude gli occhi in attesa:
+    Pure durante il terribile indugio,
+    Mentre ancor poco a viver le rimane,
+    S'odono mormorar fra le pareti
+    Del cor di lei segreti
+    Accenti in bocca di persone arcane.
+
+
+VOCE DELLA VITA
+
+      La dolce vita io sono,
+    Il bene immenso, il dono
+    Supremo che Natura all'uom concede.
+    Come in capo a un eroe donne amorose
+    Versan nembi di rose,
+    Così con ricca mano
+    I lieti giorni io verso.
+    Però lo spirto ha insano
+    Chi precipita a morte
+    Prima del tempo e volontario; a morte,
+    Che sollecita ahi troppo da sè stessa
+    Incontro all'uom s'affretta.
+
+
+VOCE DELLA FANCIULLA
+
+    Menzognera è la vita e frodi tesse,
+    Come quaggiù ogni cosa;
+    Ingannevoli son le sue promesse,
+    A imagine di fiori
+    Fra cui la serpe è ascosa.
+    Omai quaggiù nulla mi resta fuori
+    Che amarezze e vergogna;
+    E perciò appunto che a la morte agogna,
+    Non è il mio spirto insano.
+
+
+VOCE DELLA VITA
+
+      Non incolpar la vita
+    Di tua crudel sventura
+    O vergine tradita:
+    L'uman consorzio pose
+    Dissidio tra sue leggi e la natura;
+    Al contatto dei sessi il rito impose,
+    Senza del quale è colpa
+    Il natural desio,
+    E il sen fecondo, orgoglio
+    Di tutte donne e lor somma dolcezza,
+    Torna per te in cordoglio
+    Ed in onta che il cuore e i dì ti spezza.
+
+
+VOCE DELLA FANCIULLA
+
+      Deh non foss'io di donna
+    Stata mai concepita,
+    Oppur come che sia,
+    Morta fossi da pria
+    Di conoscerti, o Vita!
+
+
+VOCE DELLA VITA
+
+      Non dir così, fanciulla;
+    D'ogni miseria è peggior cosa il nulla;
+    Te l'invito dei sensi
+    E del tenero cuore,
+    Te l'ignoranza dei maschili inganni
+    Indussero in amore,
+    Onde il mio spirto esulta,
+    Ma per lo qual seguendo sua ragione,
+    Di cui poco a me cale,
+    La gente ahimè t'insulta.
+    Quindi il genio fatale
+    Dalla tua razza accusa,
+    Che danni da se stessa a sè procura;
+    Non la gioconda vita
+    E la gentil natura,
+    Perocchè bello e dolce sopratutto
+    È il respirar le lucid'aure e il blando
+    Raggio del sole e calcar l'alma terra,
+    Destare affetti e averne, e il molle frutto
+    D'amor cogliere amando.
+
+
+VOCE DELLA FANCIULLA
+
+    Me nessun ama, e nessun amo io stessa.
+
+
+VOCE DELLA VITA
+
+      A torto, a torto pensi;
+    Il tuo figlio amerai;
+    Nè dubitar che tosto il giorno arrivi
+    Che saprà amarti egli medesmo; immensi
+    Gaudi e conforti avrai
+    Finalmente da lui,
+    Che la gioia miglior dell'esser vivi
+    È dar la vita altrui.
+
+
+VOCE DELLA FANCIULLA
+
+      Il dar la vita altrui
+    Sommo è per me dolore,
+    Com'è nascer da me somma sventura.
+    Come pianta nociva il fiore e il frutto
+    Detestati matura,
+    Così dappoichè madre s'interdice
+    Essere a me, felice
+    Non sarà il figliuol mio,
+    Chè con la vita l'onta
+    Da me riceve, nè battesmo alcuno
+    La tetra original macchia deterge.
+
+
+VOCE DI UNO SPIRITO
+
+      Io son lo spirto che le membra un giorno
+    Abiterà, che adesso
+    Il tuo grembo prepara:
+    Perchè, o madre, mi uccidi?
+    Perchè, perchè la cara
+    Vita mi togli pria che darla intera?
+
+
+VOCE DELLA FANCIULLA
+
+      La vita non ti diedi
+    Finor, però nulla ti tolgo. Vedi
+    Come del viver nostro ignaro sei,
+    Sospettando ch'io privi
+    Te della vita, mentre ancor non vivi!
+
+
+VOCE DELLO SPIRITO
+
+      Più che ai lamenti miei,
+    Ti fai sorda a te stessa,
+    Perocchè certo e per tua prova sai,
+    Come la madre intenta
+    Il figliuol proprio assai
+    Pria che prodotto al giorno
+    Nelle viscere sue viver si senta;
+    Le molte pene del suo stato altera
+    Sopporta e non si duole,
+    Perchè le fan testimonianza vera
+    Che palpitante prole
+    Già pria di nascer nel suo grembo ha vita.
+    Che più? sol perchè avverti
+    Che io ti palpito in seno a me procuri
+    E a te stessa la morte.
+
+
+VOCE DELLA FANCIULLA
+
+      Non è ver, non è vero;
+    Crudel così mi fanno,
+    Se pur crudel io sono,
+    Ahimè, l'amore e l'onor mio traditi.
+    Io morte cerco e spero
+    Per nostro minor danno,
+    Per fuggir vitupero
+    Ed estinguer sotterra il mio dolore.
+
+
+VOCE DELLA VITA
+
+      Sommo danno è perir, dacchè la tomba
+    Non ha conforti; e molti n'ha la vita,
+    Per quanto dura sia.
+
+
+VOCE DELLO SPIRITO
+
+      A te l'infanzia mia
+    Gioie molte e soavi
+    Darà in compenso ai gravi
+    Travagli del tuo stato
+    Misero e disprezzato;
+    Ma fatto grande poi,
+    Coll'opra e il valor mio
+    Saprò d'utile affetto
+    Di calma e di rispetto
+    Colmare i giorni tuoi.
+
+
+VOCE DELLA FANCIULLA
+
+      Ahimè gli stenti di quaggiù malnoti
+    Ti sono e le durezze e l'aspra guerra,
+    Spirto che ancor, dove non so, ma certo
+    Molto alberghi lontan dall'umil terra;
+    Nei pelaghi tu nuoti
+    Del mistero infinito e poco esperto
+    Sei di questo fatale
+    E duro scoglio, ove nascendo approda
+    L'infelice mortale.
+    Ferrea necessità, tosto che nato,
+    Ti prenderà quaggiuso.
+    E converrà che dal mio petto escluso
+    O tu sia presto, o che la dolce infanzia,
+    Ahi la tua dolce infanzia,
+    Da me, da me, dalla tua madre istessa
+    Derelitta ed inferma
+    L'inedia il freddo e l'ignominia apprenda.
+    Che se a tal prova durerà la ferma
+    Tempra e la tua natura,
+    Non isperar ch'altra miglior ventura
+    Adulto poi t'attenda:
+    Il vile stato e la fatica rude
+    E il comun sprezzo e le ferine brame
+    Che il ben degli altri immeritato accende
+    E alfin la fame, ahimè l'abbietta fame
+    Il tuo spirto già stanco inaspriranno,
+    E sul tuo labro e nel tuo core acerbi
+    Sdegni per me porranno,
+    E per l'orrenda vita
+    Che or tu vuoi che ti serbi.
+
+
+VOCE DELLO SPIRITO
+
+      Come soldato in guerra,
+    Armi e valore in terra
+    Pari alla dura lotta
+    Che egli quaggiù sostiene
+    L'uom da Natura ottiene.
+
+
+VOCE DELLA VITA
+
+      Sacro dono è la vita, e l'uomo assume
+    Virtù nascendo che di poco a un nume
+    Inferïor lo rende.
+
+
+VOCE DEL TERRORE
+
+      Nè spavento infinito il cor t'assale,
+    O giovinetta frale,
+    Che l'ombra eterna affronti?
+    Impallidisce il forte
+    All'aspetto di morte, e tu non tremi?
+    Tutto, ben sai, non cessa
+    Cogli aneliti estremi;
+    Lurida fossa attende
+    La tua persona bella,
+    E sul molle tuo sen crescerà l'erba
+    Tetra: ma pene orrende
+    Al tuo spirto che a viver si ribella
+    Il Creator riserba.
+
+
+VOCE DELLA VITA
+
+      Quando la Vita invece
+    Gli anni migliori appresta
+    A te di giovinezza,
+    E di bellezza a cui si farà molto
+    Omaggio e molta festa,
+    Di non comun bellezza
+    T'adorna il seno e il volto.
+
+
+VOCE DEL TERRORE
+
+      Ma nell'orrida fossa ogni tuo vezzo
+    Turpe lezzo corrompe,
+    E una turba v'irrompe
+    Di mostruosi insetti,
+    Che la leggiadra spoglia
+    Dividono fra loro.
+    Peggio ancor del tuo spirito, che doglia
+    Incessabil costringe...
+    Non odi il pianto acuto
+    Ch'esce dal fiero loco?
+    E dei castighi eterni
+    Già non discerni il foco?..
+
+
+VOCE DELLA FANCIULLA
+
+      Ahimè! chi mi soccorre?
+    Un artiglio di ferro il cor mi preme,
+    Che respirar mi toglie, e sento insieme
+    Fuso piombo che corre
+    Nelle mie fauci ardenti;
+    Chi per tal modo m'incatena al duro
+    Giaciglio ch'io non possa
+    Solo un po' sollevar l'ossa dolenti
+    E rivolgere il fianco?
+    Ancor vivere io voglio... io giovin sono...
+    Aita! aita! io manco.
+    Ahimè quali funeste
+    Larve passan dinanzi agli occhi miei,
+    E che voci son queste
+    Di cui m'arriva il suono
+    Terribile? Morir più non vorrei...
+    Chi mi soccorre! Aita!
+
+
+CANTO DELLA MORTE
+
+      Oh fanciulla dolente
+    A te soccorro io stessa:
+    Grande io sono e possente;
+      Pure la ferrea sorte
+    E al mio voler sommessa,
+    Però ch'io son la Morte.
+
+      Io la suprema aita
+    Sono, o fanciulla, in terra;
+    Chi stanco della vita
+      A me fidente viene,
+    Sicuro porto afferra
+    E sacra pace ottiene.
+
+      Ma il pavido mortale,
+    Che raramente è saggio,
+    Giudica a torto e male
+      L'opra ch'io compio, e chiama
+    Stolto, anzi vil coraggio
+    Quel che m'invoca e brama.
+
+      Egli da me rifugge
+    E orribil m'affigura;
+    Se reo malor lo strugge,
+      Ancor di me che arrivi
+    Teme, e di così dura
+    Esistenza lo privi.
+
+      Stolto! solo il dolore
+    Ispiri a lui temenza,
+    Che, re sinistro, l'ore
+      E i giorni suoi governa...
+    La vita è sofferenza,
+    La morte è calma eterna.
+
+      Ma all'uom la calma incresce,
+    E a lui soffrir più giova
+    Che baldo e giovin cresce.
+      Lo intendo io ben, l'intendo;
+    Faccia del viver prova,
+    Io più tardi l'attendo;
+
+      Se pria l'ardor che ha in seno
+    Però me non provòchi.
+    Se pria però in terreno
+      Sparso d'umana clade,
+    Anch'egli fra non pochi
+    Nei lacci miei non cade:
+
+      Chè spesso l'uomo insano
+    E involontario affretta
+    L'opera di mia mano;
+      Nè vale il gran terrore,
+    Che in mio poter nol metta
+    Stoltezza assai peggiore.
+
+      Ma tu che in tua sventura
+    Il nume mio propizio
+    T'invocavi sicura,
+      Domar sappi a tua volta
+    La tema e il pregiudizio
+    Della tua razza stolta.
+
+      Non ti colga spavento:
+    Dove il mio bacio io posi
+    Ogni dolore è spento:
+      L'umana indole cessa
+    E lieti e dolorosi
+    Sensi muojon con essa.
+
+      L'amplesso mio racchiude
+    Virtù così efficace
+    Ch'ogni uman senso esclude;
+      Gioia o dolore umano
+    Al cor reso incapace
+    Quindi urterebbe invano.
+
+      È un singolar concetto
+    Il gaudio eterno o il pianto
+    Di ciò che reso inetto
+      Al gaudio e al pianto invece
+    Si tramuta frattanto
+    Con incessante vece.
+
+      Vieni fanciulla; posa
+    In seno a me la testa;
+    Nelle mie braccia ascosa
+      L'arcano sonno avrai
+    Da cui non si ridesta
+    Occhio a pianger più mai.
+
+      A me dunque abbandona,
+    A me che ti sto innante,
+    La misera persona;
+      Celami in sen la faccia,
+    Dormi siccome infante
+    Nelle materne braccia.
+
+
+L'EPILOGO.
+
+      Siccome infatti il pargolo subisce
+    Della canzon materna il molle incanto,
+    E lento s'assopisce;
+    Così il funereo canto,
+    Che alla fanciulla dentro il cuor risuona,
+    Di letale sopor tutta l'invade,
+    E a poco a poco in braccio della morte
+    Addormentata cade.
+      Or poi che il giorno cresce,
+    E le vicine sue fannosi accorte
+    Ch'ella, siccome usava, ancor non esce,
+    Picchiano all'uscio, invano.
+    Allora alfin la porta
+    Si atterra, e si discopre
+    Che la fanciulla è morta.
+    Narra il giornal con poche e indifferenti
+    Parole il mesto caso,
+    Nella cronaca urbana,
+    Ma al poeta solingo fra le genti
+    Nessuno sfugge benchè lieve aspetto
+    Della miseria umana;
+    Ei l'umil grido intende
+    Dell'infima sventura,
+    Che il suon del mondo affaccendato copre,
+    E la tragedia oscura
+    Per opera di lui nota si rende.
+
+
+
+
+PARALLELO
+
+
+      Quando ero fanciulletto
+      Soleva a me di belle
+      Mirabili novelle
+      Narrar la cameriera,
+    Mentre la sera mi poneva a letto.
+
+      Il padre mio non era
+      Contento che di storte
+      Idee m'empisse, e forte
+      Garria la donna, e spesso;
+    Ma fu lo stesso, e non mutò maniera.
+
+        O padre, io ti confesso
+      Che avean gran senso molte
+      Di quelle fole incolte
+    C ui tu non davi fede.
+    Di ciò s'avvede il tuo figliuolo adesso.
+
+        Un monelluccio il piede
+      Entro la selva pose,
+      Questo fra l'altre cose
+      Narrava a me la fante.
+    Tra fosche piante il bimbo oltre procede.
+
+        Di mostri hanno sembiante
+      Quelle e gli fan paura;
+      Cade la notte oscura;
+      Ode tra l'ombre nere
+    Urlo di fiere il fanciullin tremante.
+
+        Or sì che assai piacere
+      Avrebbe in casa essendo!
+      Ma più dal bosco orrendo
+      Uscir non sa frattanto
+    Ahimè, nè il pianto egli sa più tenere.
+
+        Un lumicin soltanto
+      Gli appar lontan lontano;
+      Ed ei con subitano
+      Coraggio a quel s'avvia,
+    E andando spia se gli si fa più accanto.
+
+        Ch'ivi un palazzo sia
+      Già imagina il fanciullo,
+      Che pien d'ogni trastullo
+      Sia quel lucente loco,
+    Pien d'ogni gioco e d'ogni ghiottornia.
+
+        Or s'allontana il foco
+      Bugiardo ora s'appressa;
+      Egli d'andar non cessa;
+      Ma il bosco è ognor più nero,
+    Sul reo sentiero ei manca a poco a poco.
+
+        Del picciol passeggiero
+      La storia allor m'empia
+      D'alta malinconia;
+      Quasi un presentimento
+    Dal triste evento aveva il mio pensiero.
+
+        Ed or che intendimento
+      Ho dell'umana vita,
+      E da un bel po' compita
+      Ho l'età di ragione,
+    Ma un fanciullone tuttavia mi sento;
+
+        Or nello scabro agone
+      Io pure il piede ho messo;
+      Sono smarrito io stesso
+      Nella crudel foresta,
+    Che il piè m'arresta, e al mio tornar s'oppone:
+
+        Che ostacoli m'appresta
+      In cento forme strane:
+      Dell'urlo d'inumane
+      Belve e di serpi orrende
+    Sonar s'intende l'ombra alta e funesta.
+
+        Bensì al mio sguardo splende
+      Il fatuo lume arcano:
+      Ahi ma lo seguo invano!
+      Spesso una stilla amara
+    Mi si prepara in cuore e al ciglio ascende.
+
+        Nè arride più la cara
+      Speranza a me, l'amena
+      Speranza; e già la lena
+      Ogni di più vien manco,
+    E il cuore stanco a rassegnarsi impara.
+
+        Perocchè presto il fianco
+      Io deporrò nel suolo,
+      Quando non potrò un solo
+      Passo più fare avanti.
+    Se delle urlanti belve allora il branco
+
+        Non vien le agonizzanti
+      Mie membra a porre in brani,
+      Ricopriran le inani
+      Foglie della foresta
+    L'umile testa mia; nè dei vaganti
+
+        Futuri per la mesta
+      Selva scoprir nessuno
+      Saprà dove, tra il bruno
+      Oblio, giacque il mio petto
+    In terra stretto. Or la mia storia è questa;
+
+        Ma essendo io fanciulletto.
+      Di fole altre parecchie
+      Empire a me le orecchie
+      Solea la cameriera,
+    Quando la sera mi poneva a letto.
+
+
+
+
+NATALE
+
+
+    Io lascio andare il _masso che dal vertice_
+      Con tutto quel che gli vien dietro poi;
+    Ma non posso negar che a me gradevole
+      Molto Natal non torni e i gaudi suoi.
+
+    Volge dell'anno la stagion più rigida,
+      E non c'è cosa allor che più diletti,
+    Come in panciolle al focolar domestico
+      Sedere fra le donne e i fanciulletti.
+
+    Solennizza Natale i dolci vincoli
+      Che in culla il primo laccio hanno di rose,
+    Nè può la tomba stessa ognor dissolverli,
+      La tomba che dissolve tutte cose.
+
+    I figliuoli già adulti oggi convengono
+      Degli antichi parenti alla dimora;
+    Vien a depor sulle ginocchia ai suoceri
+      Il nuovo nato la fiorente nuora.
+
+    Re della festa è il pargoletto; portano
+      Le testoline bionde oggi migliore
+    E più sacra corona che il Pontefice
+      Non desse a Carlomagno imperadore.
+
+    Dagli occhi lieti e dalle auguste picciole
+      Mani e dal labbro d'un bel riso adorno
+    Grazie dispensa il re piccino ai sudditi,
+      Che gli son tutti ad ammirarlo intorno.
+
+    Le teste calve e le canute curvansi
+      Più innanzi a lui profondamente; gli avi
+    L'adorano in ginocchio e di lui godono
+      Fare un tiranno e farsi lor suoi schiavi.
+
+    Certo falso non è, chi ben sa intendere,
+      Che per amor di sì gentil fattura,
+    Misterïoso per lo immenso spazio
+      Un cantico di gloria invii Natura.
+
+    Falso non è, che il rude istinto pieghino
+      I compagni dell'uom fidi animali
+    Quasi in favor sovente delle tenere
+      Creature di quello inconscie e frali.
+
+    E re certo e bifolchi e i grandi e gli umili
+      Con senso egual d'amore e di rispetto
+    Della recente culla appiè si chinano
+      Come a un altar soave e benedetto.
+
+    Là del futuro il mister sacro adorano;
+      Perchè in picciole membra e in pochi lini
+    Là si cela talor chi un dì rivolgere
+      Potrà di interi popoli i destini.
+
+    Dunque le culle festeggiamo, e il mistico
+      Germe dell'avvenir che si nasconde
+    Dentro i piccioli cuori inconsapevole,
+      Dentro le teste ricciutelle e bionde.
+
+    Oggi s'allegri ogni famiglia: il fervido
+      Riso della festante ingenua prole
+    Sperda ogni infausta cura, al par di nebbia
+      Cui sperde il raggio di nascente sole.
+
+    Infelice la casa ove dissidio,
+      Miseria o mal costume agli innocenti
+    Figli defrauda il gaudio che s'addoppia
+      Ripercosso nell'animo ai parenti.
+
+    Più infelice la casa ove il connubio
+      Sterile siede, o dove tutto tace
+    Perchè frugò la cieca Morte il florido
+      Nido colla man sua scarna e rapace.
+
+
+
+
+PER UNA IGNOTA
+
+
+    Molto mi piace, è ver; ma mentirei
+    Se dicessi che proprio mi par bella;
+    Pur non so qual lusinga arcana è in lei,
+    Ch'io ricercata ho indarno in questa e in quella.
+
+      D'altronde io non so ancor se sia costei
+    Maritata oppur vedova o zitella;
+    Bensì a udirla e a vederla penserei
+    Che niuna esser le può cosa novella.
+
+      Comunque sia, fra pochi giorni spero,
+    Se in fallaci speranze non si culla
+    L'animo mio, saper quale mistero
+
+      Sia questa donna oppur questa fanciulla,
+    E allor dirò... cioè, forse davvero
+    Appunto allora io non dirò più nulla!
+
+
+
+
+BRINDISI
+
+
+    — Nera bottiglia io t'amo, e tu ispirato
+      M'hai sempre una fiducia senza par;
+    Tu m'hai l'aria d'un picciolo curato,
+      E a te spesso io mi soglio confessar.
+
+    Cura non ho, nè dubbio alcun mi piglia
+      Ch'io non lo venga innanzi a te a depor;
+    Tu se' il curato mio, nera bottiglia,
+      Tu sei, nera bottiglia, il confessor.
+
+    Sgorga dalla tua bocca un'eloquenza
+    Confortatrice d'ogni mio pensier;
+    Tu m'esorti alla santa pazienza,
+    Tu m'esorti alla fede e al buon voler.
+
+    Quando l'onda eloquente in sen mi versi,
+      Monto in siffatto ardor di carità
+    Per li simili miei, che i peggior versi
+      Leggo di lor con tutta umanità.
+
+    Leggo i più ladri versi; e pure io tento
+      In punte escandescenze non uscir;
+    Tutto al più molto presto m'addormento,
+      Senza la prima pagina finir.
+
+    Ma questo e nulla appetto della fede
+      Che dalla bocca tua discende in me;
+    Nera bottiglia, chi al tuo dio non crede,
+      Quegli un gran peccator davvero egli è.
+
+    Quando il divo tuo spirto in cor m'infondi,
+      L'Italia mia mi sembra un regno tal,
+    Ch'io credo che non possa nei due mondi
+      Esserci a questo un altro regno egual.
+
+    . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . .
+
+    . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . .
+    . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . .
+
+    Beviamo, amici! Ogni men bella cosa
+      Traverso il biondo ed il purpureo vin,
+    Appar d'oro dipinta oppur di rosa,
+      Ha splendor di topazio o di rubin.
+
+    Lettor, ch'io non conosco, e tuttavia
+      Poichè mi leggi sei sì caro a me,
+    Se t'imbatti a passar da casa mia,
+      Entra, c'ho una bottiglia ancor per te.
+
+  _Marzo 1878._
+
+
+
+
+FANTASIME
+
+
+    Nella notte talora io dall'insonnia
+      Spinto e dal caldo delle stanze scendo,
+    E sovra l'erba nereggiante e soffice
+                        O passeggio o mi stendo.
+
+    Dorme la villa e la campagna; il sibilo
+      Stizzoso ascolto delle ree zanzàre,
+    O d'un villano ad or ad or percotemi
+                        Il gagliardo russare.
+
+    Ma poichè son poeta, io so prescindere
+      Dall'aspre realtà di questa terra;
+    Ecco uno stuol gentile di fantasime
+                        Intorno a me si serra.
+
+    Quell'ombre care quinci e quindi balzano
+      Da ogni zolla più verde e più fiorita:
+    Di fior natura han forse estinte — d'angelo
+                        Ebber natura in vita.
+
+    Oh! di mia gioventù vezzose, ingenue
+      Illusïoni, che già vive un giorno
+    E palpitanti d'uno spirto etereo,
+                        M'eravate d'intorno;
+
+    Che come donne innamorate, stringermi
+      Al seno usaste in portentoso amplesso,
+    E che m'avete, all'orecchio parlandomi,
+                        Tanto e tanto promesso;
+
+    Ora morte voi siete e più del gaio
+      Bisbiglio vostro non s'allieta il core;
+    Bensì talor l'ombre di voi m'appaiono,
+                        Che già foste il mio amore.
+
+    L'imagin vostra innanzi allo spettacolo
+      Di cosa che i miei sensi meglio avviva,
+    L'imagin vostra ecco m'appar di subito
+                        Siccome forma viva:
+
+    Per via, dinanzi al fiume od all'occiduo
+      Sole o alla luna o a stelle in ermo colle
+    O a una donna o, com'or, sotto le tenebre
+                        E su fiorite zolle.
+
+    Oh venite, venite! ripetetemi
+      I vostri dolci ingannevoli accenti!...
+    Una allor mi s'accosta e pian mi mormora:
+                        — Di me te ne rammenti? —
+
+    O ti rammento sì, bella, adorabile
+      Fata che l'avvenir mi popolavi
+    Di favolosi amori, e donne e vergini
+                        Nelle braccia mi davi!
+
+    Dice un'altra: — Di me serbi memoria,
+      Che ti cingea di sempre verdi allori,
+    E il tuo nome faceva in tutta Italia
+                        Ir famoso e anche fuori?
+
+    Susurra un'altra: — Ed io che farti ascendere
+      Seppi al poter. Seppi più volte farti
+    Ministro della Istruzione Pubblica
+                        E delle Belle Arti! —
+
+    E un'altra ancora: — Ed io che usai soccorrere
+      A tue strettezze e seppi riempire
+    A te le tasche degli incalcolabili
+                        Scudi dell'avvenire! —
+
+    — Ed io, ed io! — parecchie altre soggiungono;
+      O sì di tutte, e siete più di cento,
+    Oh di mia gioventù compagne amabili,
+                        Di tutte mi rammento.
+
+    Venite ancor, venite a me! ch'io credere
+      Tuttavia possa a voi per brevi istanti,
+    Che mi parlate di poter, di gloria,
+                        Di ricchezze e d'amanti.
+
+    Sì, come un dì, venite ed ingannatemi:
+      Fate ch'io possa toccarvi con mano...
+    Ma troppo è tardi; ombre vezzose, a stringervi
+                        Io mi affatico invano.
+
+    La rozza realtà mi tocca stringere,
+      La rozza realtà che mi circonda:
+    Ahimè a quest'ora io mal riesco a illudermi;
+                        So che è notte profonda.
+
+    Bensì un livido lampo senza requie
+      Dell'orizzonte s'agita ai confini,
+    Facendo il volto impallidire agli aurei
+                        Astri eterni e divini.
+
+    Alcuni lumi piccioli si scorgono
+      Giù per la valle che alta notte ingombra;
+    Cani latrar lontanamente s'odono
+                        Quà e là dentro quell'ombra.
+
+    La locusta riempie col monotono
+      Suo verso i solchi, stridon le zanzàre
+    Inviperite, e dal vicin tugurio
+                        S'ode il villan russare.
+
+    Manda la coccoveggia dai comignoli
+      Il singulto che all'uom suona fatale;
+    Passa nell'aer nero una precipite
+                        Forma ed un suono d'ale.
+
+    A letto, a letto! e tu, Sonno, soccorrimi,
+      Sonno, a noi di Natura almo presente,
+    Sonno, della serena ed impassibile
+                        Morte gentil parente.
+
+
+
+
+PER UN AMICO ESTINTO
+
+(ANTONIO CAUMO JUNIOR)
+
+SONETTI
+
+
+I.
+
+    Mesto regno dell'ombre, a cui lo stolto
+    Mortal senza terror l'occhio non piega,
+    E poichè sa che là il suo passo è volto,
+    Lunga almeno la via dal Ciel si prega;
+
+      Non io così da te ritorco il volto,
+    Nè il fango della terra il piè mi lega
+    Tanto, che a te non mova alacre e sciolto,
+    O arcana landa, onde tornar si niega.
+
+      Bensì tutto m'inonda ancor la vita;
+    Ma come in alpe, mentre il sol c'è sopra,
+    Miriam la valle pur tra nebbie ascosa;
+
+      Miro io così laggiù l'ombra infinita,
+    E prima ancor che il mio bel dì si copra,
+    Spingo lo sguardo entro l'occulta Cosa.
+
+
+II.
+
+    E se Amor non m'inganna o Poesia,
+    Ch'empion di larve spesso e cuore e mente,
+    Quel mondo ignoto, ecco subitamente
+    Albeggia agli occhi della mente mia.
+
+      E come a notte per campestre via,
+    Sotto la luna par lontanamente,
+    Ch'ivi fra nebbie d'indistinta gente
+    La contrada animata a un tratto sia;
+
+      Così vegg'io nella crepuscolare
+    Ombra del regno arcano, erranti e meste
+    Forme fra cui molte a me note e care;
+
+      Onde più che terror provo desio
+    Di quel regno nel qual mi precedeste,
+    O miei congiunti, o amici, o padre mio!
+
+
+III.
+
+    Dove tu pur fra gli ultimi venuti,
+    Dolce amico, affrontasti il grande arcano,
+    E là parmi veder che tu con mano
+    M'accenni anco una volta e mi saluti:
+
+      Più ancor, m'illudo o il tuo grido lontano
+    Meco si lagna perch'io non t'aiuti?
+    Certo m'illudo e in ciechi spazi e muti
+    Tendo l'orecchio e spingo il guardo invano.
+
+      Tutto è mistero. Il sepolcrale orrore
+    D'alta speme vestir m'è gran dolcezza;
+    Ma il tuo cenno, il tuo grido è nel mio cuore;
+
+      Là sol tu serbi ancor le usanze umane,
+    Là che intero tu vivi ho sol certezza,
+    Nel cuor mio, finchè a lui vita rimane!
+
+  _Dicembre 1875._
+
+
+
+
+INSONNIA
+
+
+    Misterïosi spiriti
+      L'arcano mondo serra;
+    Nascosti son nell'aria,
+      Sono nascosti in terra;
+    Misterïosi spiriti
+      L'arcano mondo serra.
+
+    Quando a notte mi corico,
+      Da un pezzo ho per costume
+    Il mio giornal di leggere;
+      Poscia smorzare il lume,
+    E cheto cheto attendere
+      Il sonno è mio costume;
+
+    Ma in quella vece giungere
+      Altri suole più spesso;
+    Al mio letto uno spirito
+      Pian piano si fa presso,
+    Irrequïeto spirito
+      Che mi visita spesso.
+
+    Io lo sento accostarmisi;
+      Stende su me le mani,
+    Ed ecco tosto fluidi
+      Concitati ed arcani
+    Sopra i miei nervi scendere
+      Sento da quelle mani.
+
+    Io più non trovo requie,
+      Acre smania m'assale;
+    Su questo fianco volgermi
+      O sopra quel non vale,
+    E quanto più m'adopero
+      Tedio maggior m'assale.
+
+    Di mostruose imagini
+      Prende il buio i colori;
+    Io gli occhi stringo e intendere
+      Mi par strani rumori;
+    Ond'ha suoni il silenzio,
+      Come il buio ha colori.
+
+    Misterïosi spiriti
+      Racchiude il mondo arcano;
+    In terra son, nell'aria,
+      Sono nell'oceàno;
+    Misterïosi spiriti
+      Racchiude il mondo arcano.
+
+    Lo spirto dell'insonnia
+      Accanto a me s'asside,
+    Cose disaggradevoli
+      Nell'orecchio mi stride;
+    L'insonnia, ahimè! l'insonnia
+      Al letto mio s'asside.
+
+    A lei non è dell'anima
+      Alcun segreto ignoto,
+    A lei del cor non celasi
+      Il più leggero moto,
+    A lei del capo l'ultimo
+      Pensier non resta ignoto.
+
+    Sa tutto, ed instancabile
+      Il tutto mi ripete;
+    Ma fra le cose sciegliere
+      Suol essa le men liete;
+    Spiega, commenta, esagera
+      Il mal che mi ripete.
+
+    Lento venir sull'aere
+      Il suon dell'ore intendo,
+    Penso di nuovo leggere,
+      Il lume riaccendo;
+    Lente frattanto battere
+      Ecco le tre già intendo.
+
+    Il sonno allor di subito
+      Mi sembra che mi pigli;
+    Mi ricompongo immobile,
+      Ma con più fieri artigli,
+    Par ch'anzi allor l'insonnia
+      Quasi folle mi pigli.
+
+    Spine in letto mi semina
+      E mi avvoltola in quelle;
+    Dura il crudel martirio
+      Finchè duran le stelle;
+    L'insonnia sol dipartesi
+      Al dipartir di quelle;
+
+    All'alba sol, lasciandomi
+      Franto fino a le dita;
+    Sopra il guancial precipita
+      La testa intorpidita,
+    Finchè vien tardi a scuotermi
+      Il sol coll'auree dita.
+
+    Misterïosi spiriti
+      L'arcano mondo serra;
+    Celati son nell'aria,
+      Sono celati in terra,
+    Misterïosi spiriti
+      L'arcano mondo serra.
+
+
+
+
+REALISMO
+
+
+      Ebbi una volta i miei vent'anni anch'io.
+    Di sogni d'oro e d'ideali splendidi
+      Popolato era allor l'animo mio,
+    Come a ciascuno avviene in età simile.
+
+      Anco una bella amante aveva allora,
+    Una leggiadra e graziosa femmina.
+      Accanto a lei sino a tardissim'ora
+    Mi trattenni una notte. Oh notte eterea!
+
+      Coricati eran tutti, ed a lei stessa
+    Scender fu forza i chiavistelli a mettere,
+      Poichè uscito io mi fui, chè compromessa
+    Si sarebbe chiamando alcun domestico.
+
+      Era il ciel di zaffiro, e l'alta intera
+    Luna splendea, colà d'intorno un pallido
+      Lume alternando alla grand'ombra nera
+    Che le case facean sbarrate e tacite.
+
+      Solo andavo per via, nè voglia alcuna
+    Di coricarmi avea, perchè nell'anima
+      Della recente mia somma fortuna
+    Mi duravan tuttor l'ebbrezza e il giubilo.
+
+      Oh adorabile donna! E tutto assorto
+    In tal pensiero e in estasi dolcissima,
+      Cheto arrivai dove dell'umil porto
+    I due bracci entro il lago un po' si spingono.
+
+      Colà del molo in sull'estremo sasso
+    A sedere mi posi e penzolavano
+      I piedi miei sull'onda, ch'ivi abbasso
+    Alle pietre battea con lieve murmure.
+
+      Luccicante era il lago e tutto piano,
+    Se non che a macchie qua e là increspavasi,
+      E dentro molli nebbie da lontano
+    Lento parea nel curvo ciel confondersi.
+
+      Dietro stava il villaggio, e i colli e il monte
+    Girando a par d'anfiteatro, un rigido
+      Tono mettean sul cerulo orizzonte,
+    Come d'opaco aspro metallo fossero.
+
+      Una blanda stanchezza i sensi miei
+    Lusingava frattanto, e a tutto l'essere
+      Mio pareva in allor mescersi a quei
+    Grandi silenzi arcani ed alla requie
+
+      Solenne d'ogni cosa, ond'esso intorno
+    Dovunque circonfuso era e sentivasi...
+      Pur dell'amata donna e dell'adorno
+    D'un fior molle suo crine il grato effluvio
+
+      M'era ai panni rimasto, ed alle nari
+    Talor saliami lieve, impercettibile,
+      Ma non così però che in me dei cari
+    Vezzi di lei, degli atti suoi, del trepido
+
+      Abbandonarsi la memoria intiera
+    Non ridestasse a un tempo e la delizia
+      Del fruir tutto ciò, quasi com'era
+    Stato dianzi or tornasse anco a succedere.
+
+      Sol mi pareva in elemento adesso
+    Fatto d'argentea luce e di silenzio
+      E di calma infinita il nostro amplesso
+    Non so ben come arcanamente compiersi.
+
+      E m'era avviso, mentre in dolce laccio
+    Stretto io tenevo l'adorata femmina,
+      Di sentirmi salir, cullato in braccio
+    D'alcun ignoto iddio, su dentro l'etere.
+
+      Ben la natura stessa allor, cred'io,
+    In questo m'inducea grande e fantastico
+      Sogno, dove sembrava all'esser mio
+    Lentamente passar, tra molli gaudi,
+
+      Dall'amplesso finito allo infinito
+    Di tutte cose amplesso, ed ivi sciogliersi
+      Come in non so qual mar che senza lito,
+    Alto ondeggia, lontano, azzurro, splendido.
+
+      Giurabacco, ch'io mai non ero asceso
+    A più ideale altezza! — Ed allor eccoti,
+      Mi venne a un tratto un certo suono inteso,
+    Qual d'un'aura compressa nell'erompere.
+
+      Tosto a quel suon dal sogno mi riscossi,
+    E mirando la spiaggia, ivi ebbi a scernere
+      Un uomo accoccolato, il qual levossi
+    Presto, e partiva i panni indi assettandosi.
+
+      Bene io compresi allor: costui venuto
+    Era a far ciò, che il dirlo non e lecito,
+      Appunto là, dov'io da presso, muto
+    Ammirando, ed assorto in placida estasi
+
+      Dinanzi allo spettacolo di quella
+    Notte che invano or or tentai descrivere,
+      Versavo in grembo alla sublime e bella
+    Natura tutto quanto era in me d'anima.
+
+      Ma la Natura, ahimè, bella e sublime
+    E non meno crudele, e alfin di vacui
+      Inganni austera correttrice, all'ime
+    Realità di subito con ferrea
+
+      Mano m'avventa, e dai sognati cieli
+    Dello ideale mi richiama all'umile
+      Verità delle cose, e senza veli
+    Mi dimostra la terra, ond'io sollecito
+
+      Quindi mi levo e volgo afflitto in mente
+    Come il bello ed il brutto accanto vadano:
+      Il bello è un matto sogno assai sovente,
+    Ma non già il brutto un sogno mai suol essere!
+
+
+
+
+PICCOLO MONDO
+
+IDILLIO DOMESTICO
+
+1870-77
+
+                                         _Nihil sanctius quam domus._
+                                                                 CIC.
+
+
+I.
+
+    Fu a mezzo ottobre, quando si fan gialle
+    Le foglie, e al primo soffio che diserra
+              Il monte su la valle
+              Cascano in folla a terra;
+    Fu a mezzo dell'ottobre disadorno,
+              Che a la modesta villa,
+              Dov'ebbero tranquilla
+    Dimora i padri miei, feci ritorno.
+
+    Dopo l'assenza di molt'anni al loco
+    Feci ritorno dell'infanzia mia;
+              Partii fanciullo e poco
+              Men che adulto or venia:
+    Nessuno ravvisarmi avria saputo,
+              Ma gli antichi cipressi
+              Vidermi appena, ch'essi
+    Mossero il capo in segno di saluto.
+
+    Furon dinanzi del cancel piantati
+    Da non so quale de' miei vecchi stessi
+              Que' due vecchi cipressi;
+              E là come soldati
+    Stan da gran tempo a guardia del mio tetto,
+              E mi conobber tosto,
+              Perchè ai lor piè deposto
+    Io soleva giocar da pargoletto.
+
+
+II.
+
+    Le scale ascesi e penetrai le stanze
+      Che gran tempo di passi e voci umane
+    Furon mute, e ove leggonsi le usanze
+      D'un'età spenta in quel che ne rimane.
+
+    Il padre mio che preferì altra sede,
+      Presso quel lago ch'ei descrisse in rima,
+      Là morir scelse, e non aveva prima
+    Più da molt'anni qui rimesso il piede.
+
+    O alti stipi addossati a la parete,
+      Seggioloni, erti letti e mense gravi,
+    O vecchi arredi a cui le meste o liete
+      Vicende e i sensi noti fur degli avi;
+
+    Io vi ammiro in silenzio, e quasi provo
+      Vergogna d'esser io vostro padrone,
+      Chè il serio aspetto vostro assai m'impone,
+    E pur meschino in faccia a voi mi trovo.
+
+
+III.
+
+    Volontier ci si indugia accanto al foco,
+      Nella lunga autunnal rigida sera,
+    Massime in vecchie case, ove fan poco
+      Schermo le imposte contro la bufera;
+        Io la serata intera
+          Spendo con gran diletto
+          Dinanzi al caminetto.
+
+    Danzan le fiamme sugli enormi alari
+      Volubili e scherzose e suonan liete,
+    La stanza empiendo di giocondi e vari
+      Riflessi, mentre sovra la parete
+        Si movono inquiete
+          L'ombre e i profili neri
+          Dei mobili severi.
+
+    Vecchie pareti, a cui nessuna è ignota
+      Di tante cose innanzi a voi compiute,
+    Se per narrarmi dell'età remota
+      Voi cessaste un momento d'esser mute,
+        Forse d'aver sapute
+          Quelle cose, mi pare,
+          Che a me potria giovare.
+
+    Forse m'illudo, nè dir cosa nuova
+      Voi potreste, ch'io pria non la sapessi;
+    Che l'umana vicenda si rinnova,
+      Ma poco muta, e gaudii a noi concessi
+        Furo e dolori stessi
+          In alto e in umil stato,
+          Oggi e per lo passato.
+
+
+IV.
+
+    Ma forse in tutto nemmen questo è vero;
+      Nè certo or fa cent'anni i nostri vecchi
+      Si davano pensiero
+      D'argomenti parecchi,
+      Ch'oggi il cuore e la mente
+      Vanno struggendo a noi, povera gente!
+
+    Le manìe metafisiche discese
+      Anco non eran nell'Italia allora;
+      La scïenza politica, com'ora,
+      Non era ancor palese
+      A ciascheduno, fino al mio barbiere,
+      Cose che non parrebbe, e pur son vere.
+
+    Il sentimentalismo umanitario
+      (Ahimè, che versi scrivere mi tocca!)
+      Ch'oggi a tanti la penna empie e la bocca
+      Di sonante frasario
+      Non era noto allor... ma un tal soggetto
+      Mi guasta il verso e il sangue e però smetto.
+
+    Pur tinto è ognun di noi, qual più qual meno
+      Di questa lebbra, e come tutti io stesso;
+      Onde nel fior degli anni miei l'ameno
+      Tempo autunnale spesso
+      Vo' sprecando nell'egre ed affliggenti
+      Malinconie delle moderne menti.
+
+    Già non degli avi miei questo avvenia.
+      Oh dolci autunni antichi! Innanzi al giorno
+      Il mio buon nonno uscia
+      Di casa ed ascoltando in alto e intorno
+      Se di buona passata indizio c'era,
+      S'affrettava pel colle all'uccelliera.
+
+    Detta la messa che il nipote accorto
+      Serviagli, il prete (uno, anche due talora
+      Vestivano in mia casa i sacri panni;
+      Questo era l'uso allora:
+      L'ultimo io stesso lo conobbi; è morto
+      L'ottimo vecchio appunto or fa vent'anni;)
+
+    Detta dunque la messa, anch'egli il prete
+      Tosto accorreva col nipote allato
+      A veder se frattanto nella rete
+      Molti augelli avean dato.
+      Così in parte venia la mattinata
+      Lietamente impiegata.
+
+    Poi s'attendeva a por la copiosa
+      Vendemmia dentro i tini con saggezza,
+      O in acconcia maniera
+      Alla stura attendeasi, o ad altra cosa,
+      Ch'ora io dir non saprei con sicurezza,
+      Ma ch'util certo e dilettevol era.
+
+    Per tal guisa in tranquille opere oneste
+      Spendeano il giorno gli avi,
+      Nè lo studio era l'ultima tra queste,
+      E il libro non di sogni irriti o pravi
+      Suscitatore, alle solinghe e lente
+      Passeggiate compagno era sovente.
+
+    La serata oltremodo era gioconda:
+      Gli augelli il mattin presi, unti e arrostiti,
+      Eran su la rotonda
+      Polenta molle in lunghe e fitte schiere
+      Per la cena imbanditi,
+      E colmo del vin nuovo era il bicchiere.
+
+    Convenivan gli amici intorno all'otto.
+      Allora spesso il conversar festoso
+      Da scoppio fragoroso
+      Di risa era interrotto.
+      Ma in disparte raccolti, aspri, accigliati.
+      Giocavano al tresette i più attempati.
+
+    Si ballava talor, ma d'improvviso,
+      Senza apparato: i giovani eleganti
+      Meglio ne' modi assai che nel vestire;
+      Le donne adorne solo di sorriso,
+      Senza trine o brillanti;
+      E ognuno a mezzanotte era a dormire.
+
+
+V.
+
+    Ahimè! da queste cose
+      Son trascorsi molt'anni:
+      Il padre mio gli affanni
+    Del viver suo nascose
+      In solitudin tetra,
+      Finchè sotto la pietra
+    D'un sepolcro si pose.
+
+    Da lunga età la stanza
+      De' gai ritrovi è muta,
+      Nè un passo più si muta
+    Nella sala ove usanza
+      Ebbero de' miei padri
+      Le spose i piè leggiadri
+    Movere in lieta danza.
+
+    E il tempo indarno sfida
+      Sul granaio il panciuto
+      Multicorde liuto,
+    Che ai balli un dì fu guida;
+      Or confortabilmente
+      Il topo sapïente
+    La prole sua v'annida.
+
+    De' topi indi la prole
+      Porta dall'istrumento
+      Che l'annidò il talento
+    Del danzatore, e suole
+      Laddove furo i gravi
+      Minuetti degli avi
+    Menar le sue carole.
+
+    Il vento spesso viene
+      Di musical romore
+      Ottimo esecutore,
+    E al ballo bordon tiene;
+      Da solo fa le veci
+      Non d'una, ma di dieci,
+    All'uopo, orchestre piene.
+
+    La canna del camino
+      Gli serve di trombone
+      Con che il basso compone,
+    E forma il vïolino
+      Fischiando agli usci fessi,
+      E tra i vetri sconnessi
+    Aprendosi il cammino.
+
+    Io che non là da presso
+      Dormo, ma il sonno ho lieve
+      Mi sveglio al suono in breve,
+    Benchè arrivi sommesso:
+      I vecchi ai noti lochi
+      Tornano ai balli e ai giuochi —
+    Penso allor fra me stesso.
+
+    — Certo nell'alta notte,
+      Alle lor feste i vecchi
+      Tornan che da parecchi
+    Anni furo interrotte: —
+      Accenti odo, segrete
+      Voci in sì gran quïete
+    Come non so prodotte.
+
+    Son l'avole amorose
+      Che lasciano i mariti
+      A bofonchiare uniti,
+    E il nipote bramose
+      Cercando van con orme
+      Furtive s'egli dorme
+    Nelle stanze più ascose.
+
+    Pendono sul mio letto
+      Spiando attente attente
+      Qual abbia se avvenente
+    O se illegiadro aspetto
+      Colui ch'unico resta
+      Di lor stirpe modesta,
+    Colui ch'è il lor diletto.
+
+    Cenno col dito fanno
+      Che ognuna zitta stia,
+      Che sturbato io non sia;
+    Così a mirar mi stanno;
+      Molte vorrian baciarmi,
+      Ma per non isvegliarmi
+    Quel piacer non si danno.
+
+    Mi guardo io ben d'aprire
+      Gli occhi. Le care donne,
+      Le mie povere nonne
+    Non san che di dormire
+      Solo per arte io fingo,
+      Ch'io veglio e gli occhi stringo
+    Per non farle fuggire.
+
+
+VI.
+
+    Ma i morti sono morti e non ritorna
+      Nessun di lor per quanto l'alma vita
+      E la casa ove nacque abbia gradita
+    E la sua stirpe ch'ivi ancor soggiorna.
+
+    Ahimè l'avole mie son tutte morte,
+      E giacciono incomposte ossa a quest'ora
+      Nel suol costrette, non che sian talora
+    Per venirmi a veder giammai risorte.
+
+    Ma quai vapor ch'estiva notte aduna,
+      Piglian vaghi e fantastici sembianti,
+      Quasi d'arcani spirti in cielo erranti
+    Al novo raggio di crescente luna;
+
+    Così le pie memorie che man mano
+      Desta in me la dimora di mia gente
+      Antica, al raggio dell'accesa mente
+    Vita pigliano e voce e aspetto arcano.
+
+    Molto io t'amo o modesta antica villa
+      Che fosti ai miei placida stanza e amena,
+      Dove nacque alcun d'essi, oppur serena
+    Vita condusse, o morte ebbe tranquilla.
+
+    O buona casa, o vecchia casa io t'amo,
+      Sebben cadente sei, laonde il saggio
+      Muratore a consiglio e del villaggio
+    Il fabbro spesso e il legnaiuolo io chiamo.
+
+    Molte misure e ovunque son da noi
+      Prese su te, ch'io far di te vorria
+      La miglior casa che dintorno sia,
+    E non sol riparare ai danni tuoi.
+
+    Vorrei che il passeggiere il bianco e bello
+      Aspetto tuo mirasse da lontano,
+      E che sosta facesse il buon villano
+    Per vagheggiarti innanzi del cancello.
+
+    Ma assai fu detto e nulla s'è conchiuso
+      Co' mie' architetti, e tu mi sei rimasta
+      Vecchia, o mia casa, molto vecchia e guasta,
+    Qual d'esser da gran tempo hai preso l'uso.
+
+    Noi non potemmo intenderci al postutto;
+      Mi ci vorrebber venti mila lire,
+      C'intenderemmo allor, non c'è che dire,
+    Ma non ci son purtroppo, e questo è il tutto. —
+
+
+VII.
+
+    Ma il moto urge e governa
+      Ogni terrestre cosa;
+    Sol la Vicenda eterna
+    È in terra, e mai non dorme
+      E mai non si riposa
+    Dal mutar nomi e forme.
+
+    Tutto quaggiuso muta
+      E nulla pêre intanto:
+    L'uom, l'opra sua compiuta,
+    Sotterra il genitore
+      Raggiunge, ma per tanto
+    L'umanità non muore.
+
+    Il suolo ampio nasconde
+      Genti morte infinite,
+    Più assai che in selva fronde
+    Non copran esso il verno:
+      Ma di fronde e di vite
+    È il riprodursi eterno.
+
+    Ravviva il sacro Aprile
+      L'albero irrigidito
+    E dà virtù gentile
+    Al seme che si trova
+      Dentro terra smarrito,
+    E messi e fior rinnova.
+
+    E Amor ripara il danno
+      Che dal recar non cessa
+    Morte ogni dì dell'anno;
+    E la culla prepara
+      Pur nella casa istessa
+    Ond'esce or or la bara.
+
+    Quante abitaron genti
+      Questo mio colle aprico?..
+    Io sotto ai fondamenti
+    D'un muro che atterrai
+      Stretti nel suolo antico
+    Molti giacer trovai.
+
+    Pria che il muro costrutto
+      Certo fur là sepolti,
+    Ed era quel ridutto
+    Per vetustà a cadere;
+      Figuriamci se molti
+    Anni doveano avere!
+
+    Chi fossero è mal noto:
+      Narrasi che un convento
+    Fu qui in tempo remoto;
+    Nulla s'oppon che quelli
+      Scheletri nel trecento
+    Non fosser fraticelli.
+
+    O buoni e saggi frati,
+      Che qui viveste e siete
+    Morti qui e sotterrati,
+    Chieggovi umil perdono
+      Se a romper la quiete
+    Vostra venuto io sono.
+
+    D'ogni cosa mortale
+      La varia vece e questa.
+    Così alla monacale
+    Famiglia è poi successa
+      Qui la mia gente onesta
+    Nell'egual sede istessa.
+
+    Ma dei frati di pria,
+      La cui folla s'ignora,
+    E della gente mia,
+    Che di padre in figliuolo
+      Tre secoli dimora
+    Qui tenne, resto io solo.
+
+    Pur l'avvenir son io;
+      Io sono il germe ascoso,
+    E attendo il maggio mio.
+    Ma come sulla rasa
+      Gleba, l'infruttuoso
+    Verno or mi siede in casa.
+
+
+VIII.
+
+    Scrive la Sand che la miglior stagione
+      D'abitar la campagna è il verno; io dico
+    Il ver non ho codesta opinïone,
+      Eppur son della villa un grande amico.
+
+        Alla campagna io duro
+          Fino ad anno avanzato,
+          Ma quando è giallo il prato,
+        L'albero spoglio, oscuro
+          Il cielo, il giorno breve
+        Men peggio assai mi pare,
+          Quando viene la neve,
+        A Milano abitare.
+
+    Triste è abitar nel verno la campagna:
+      Bigia e folta la nebbia ai colli siede,
+    Lenta inesausta pioggia intorno bagna
+      Per quanto spazio abbraccia l'occhio e vede.
+
+        Che si fa, lungo il giorno,
+          Se non che sol l'infesta
+          Noia portar da questa
+        Seggiola a quella intorno?
+          Nè il mutar stanza o loco,
+        O seggiola o lettura
+          Soltanto mi procura
+        Ch'io muti noia un poco.
+
+    Tedio eguale mi rode il giorno intero,
+      Nè se il tempo è miglior m'annoio meno,
+    Correndo via per questo o quel sentiero,
+      Ch'ora è sì triste, e vidi già sì ameno.
+
+        Al sole ch'è malato
+          Certo il gelo è molesto,
+          E si corica presto,
+        Poichè s'è tardi alzato.
+          Con braccia scarne aiuto
+        Chiede il gelso, e il cipresso
+          Trema per freddo acuto
+        Nel suo mantello istesso.
+
+    Cascan le trine argentee crepitando
+      Giù dalle siepi dove fruga il vento;
+    E via dal fosco pian di quando in quando
+      Mover mi sembra un suono di lamento:
+
+        Dice quel mesto suono:
+          Poeta a che ti stai?
+          Della Natura ormai
+        Chiuse le feste sono.
+          Invan le giaci in seno
+        E amor di lei ti move;
+          È morta o poco meno;
+        Cerca tue gioie altrove.
+
+    Afflitto mi rincaso e penso io pure
+      Di rituffarmi tosto allegramente
+    Fra le tumultuose e dolci cure
+      E fra i piacer de la città frequente:
+
+        Chè certo sarei stolto
+          Se fra questo squallore
+          Tener volessi il fiore
+        Degli anni miei sepolto,
+          Mentre una molle egizia
+        Danzatrice brunetta,
+          Che fu già mia delizia,
+        A Milano m'aspetta.
+
+    Quando Amneris con la celeste Aida
+      Pel vago Radamés venne alle prese,
+    Quella danzar mirai tra preci e grida
+      Del sommo Phtà nel tempio, e amor mi prese.
+
+        Io so che nelle braccia
+          Ell'ha tutto l'ardore
+          Del sol d'Egitto e in core,
+        Quando stretto m'allaccia;
+          E or mentre i dolci istanti
+        Ch'ebbi da lei rammento,
+          I tizzi schioppettanti
+        Con le molle tormento;
+
+    Ma non così s'avviva e dà scintille
+      Il fuoco presso cui passo la sera,
+    Quanto il mio cor s'accende e di ben mille
+      Sfavillanti pensier l'anima intera
+
+        Si riempie, com'io
+          Sovvengomi di lei...
+          Oh pazzo ben sarei
+        Se in città, vivaddio,
+          Non ritornassi tosto!
+        Il verno qui mi scaccia,
+          E là ho sì dolce posto
+        Fra quelle care braccia!
+
+    Ma popolare la deserta stanza
+      Di larve benchè liete a me non giova,
+    Mentre di queste la real sostanza
+      Molto lontana ora da me si trova.
+
+        Più di me niuno apprezza
+          La virtù portentosa
+          D'imaginarsi cosa
+        Qual più l'alma accarezza:
+          Ma la sera invernale
+        Ha spazio sufficiente
+          Per darvi un piacer tale
+        A lungo e largamente,
+
+    E serba tanto spazio tuttavia
+      Da annoiarvi di poi senza confine;
+    Nè di bei sogni allegra compagnia
+      Fa che siate men soli alla fin fine.
+
+        Pertanto io sono solo,
+          Fuorchè alle serramenta
+          Percote e si lamenta,
+        Ovver passando a volo
+          Biascia parole amare
+        L'aquilone irritato
+          Perchè nol lascio entrare
+        A scaldarmisi allato.
+
+    Solo son io: bensì chiamare io posso
+      In aiuto il fattor, uom dotto e saggio,
+    E lasciar tutta arrovesciarmi addosso,
+      Come fecondatrice acqua di maggio,
+
+        L'illustre agricoltura,
+          Che in suo cervel s'addensa,
+          Pari a nuvola intensa
+        Sui monti, che assicura
+          Le messi esauste al sole;
+        Se pur grandin non sia,
+          Che nulla invece suole
+        Lasciare in cortesia.
+
+    Ma col verno non val saggezza o cura;
+      Sterile è il verno e a pormi l'alma in fiore
+    Or ci vuole ben altra agricoltura
+      Che non sia quella del saggio fattore.
+
+        Solo, solo son io;
+          Tu stesso, o picciol cane,
+          Posi or l'ossa lontane,
+        O Fido, amico mio,
+          Che sdraiato sovente
+        Al foco e a me dappresso
+          Russavi chetamente;
+        M'hai lasciato tu stesso.
+
+    Morto purtroppo sei, matto compagno
+      De' miei trastulli un dì, che vecchio e stanco
+    Adesso il giorno inter m'eri al calcagno,
+      E tutta sera mi dormivi a fianco.
+
+        Bello non fosti, è vero;
+          Can da pagliaio, onesto
+          Vissuto se' in modesto
+        E piccolo mestiero:
+          Sordo eri or poi; ma un giorno,
+        Lesto ad ogni romore,
+          Fama ottenevi intorno
+        D'ottimo abbaiatore.
+
+    Or tu pure se' morto, e un'amarezza
+      Grande io sento di ciò, come se un molto
+    Fedele amico, a cui l'anima è avvezza,
+      Stato mi fosse d'improvviso tolto.
+
+        Nè di te cosa alcuna
+          Or viva più rimane,
+          O buono ed umil cane?
+        Nè in qualche stella o luna
+          Più vive il saldo affetto
+        Che ti brillò nel fondo
+          Occhio finchè negletto
+        Passavi in questo mondo?
+
+    Altra vita alcun premio a te non serba
+      Dell'util opra tua, nè guiderdone
+    Di tue virtù modeste in meno acerba
+      Sorte e in altra miglior condizïone?
+
+        Misero in vita e in morte,
+          O mio povero cane!
+          Quante son bestie umane
+        Che han di te miglior sorte:
+          Non ti valgono in vita,
+        E tuttavia defunte
+          Trovan gioia infinita
+        Nel paradiso assunte!
+
+
+IX.
+
+    Poggi e valli d'un nembo di verzura,
+          E d'alma luce e bionda
+          Il divo maggio inonda
+          L'aura turchina e pura,
+    Nella quale s'immerge schiamazzando
+            La pazzerella rondine;
+
+    Io tosto, messa ogn'altra cura in bando,
+          Salgo alla villa antica
+          E a la natura amica
+          Conforto e oblio domando
+    Della città che m'ha seccato assai
+            Co' suoi costumi pessimi.
+
+    La danzatrice egizia che adorai
+          Volle aver più mariti;
+          Son nostri e vecchi riti,
+          Nè ancor mi ci addestrai.
+    Ma questo è nulla: a fin di carnovale.
+            Per troppo al gioco perdere,
+
+    (Fin su i capegli alto il rossor mi sale)
+          Restai corto a quattrini,
+          Onde a certi strozzini,
+          Per farla meno male
+    In giorni a lesinar poco opportuni,
+            Duopo mi fu ricorrere.
+
+    Oh del viver civile acri e importuni
+          Bisogni! — Basta, intorno
+          All'ultimo soggiorno
+          Che in città feci, alcuni
+    Guai vi dirò me l'hanno reso amaro.
+            Ora i campi mi accolgono.
+
+    Maggio tripudia, e tu del tempo avaro
+          Compensami, o Natura;
+          Sanami d'ogni cura,
+          E il verdeggiante e caro
+    Grembo mi schiudi ove riposo io prenda...
+            E il raccolto dei bozzoli
+
+    Fa ancor che abbondi, e che ben lo si venda.
+
+
+X.
+
+    Io dall'uom non rifuggo, e meno ancora
+    Dalle donne se belle e sagge sono;
+                      Ma domando perdono,
+    La compagnia degli alberi talora
+                      Sotto più d'un aspetto
+                      Mi dà maggior diletto.
+
+    Mai, per esempio, non s'udì che avesse
+    Il pero a sdegno il suo non vil mestiere
+                      Di fare delle pere,
+    E ch'egli a un tratto il cedro si credesse,
+                      Come dell'uom si vede
+                      Che sovente succede.
+
+    Chi nano e storto nespolo sarebbe
+    O sorbo sciocco o frutto anche peggiore,
+                      Fra noi pretende onore
+    D'ananasso o di dattero che crebbe
+                      Orgoglio d'oasi amene;
+                      Pretende e spesso ottiene.
+
+    O vanità malnate, o stroppi intenti,
+    O bassezze del picciolo mortale,
+                      O invidie abbiette, o male
+    E pettegole lingue, o brute menti
+                      Io vi aborro vi aborro,
+                      Però ai campi ricorro.
+
+    In campagna per tempo ogni mattina,
+    Se nuvolo non è si leva il sole;
+                      Codesto avvenir suole
+    Anco in città, ciascun se lo indovina.
+                      Ma chi concluder osa
+                      Che sia l'istessa cosa?
+
+    Come ogni vel donna al marito in faccia
+    Toglie e si mostra in sua bellezza intera,
+                      Ad un'egual maniera
+    D'ogni vapor tosto che il sol s'affaccia
+                      D'orïente alla soglia,
+                      La terra si dispoglia.
+
+    Di baci il sol, fervido eterno sposo,
+    E di tremule gemme il sen le inonda,
+                      E l'abbraccia e feconda
+    Con mille raggi e mille, in glorïoso
+                      Miracoloso amplesso.
+                      Al tempo istesso
+
+    Si desta il tutto e portan l'aure intorno
+    Suoni indistinti, a guisa di messaggio
+                      Col quale in lor linguaggio
+    Tutte le cose dannosi il buongiorno;
+                      Ed io che a questo attendo
+                      Occulti fatti apprendo.
+
+    Chiede l'olmo se bene ha riposato
+    Alla vite; il frumento aureo sospira
+                      Sommessamente e gira
+    Il capo in atto estatico e beato
+                      Perchè la molle brezza
+                      Lo molce e lo accarezza.
+
+    Il giovinetto augello alto la lieta
+    Canzone della vita all'aure invia;
+                      Quel non ha la mania
+    Ond'è tocco fra noi più d'un poeta,
+                      Che disinganni e danni
+                      Sogna e piange a vent'anni.
+
+    Senza pretesa aver che dal _Fanfulla_
+    O dall'_Antologia_ siano lodate,
+                      Come ogni nostro vate
+    Pretende s'egli fa cosa da nulla,
+                      Le cicale fan versi
+                      Sugli alberi diversi.
+
+    I fioretti del prato arcani accenti
+    Van susurrando, e narransi fra loro
+                      I propri sogni d'oro
+    Onde infiniti traggono argomenti:
+                      Ma il pino, ahimè, crollando
+                      Va il capo a quando a quando.
+
+    Il papavero lungo e scimunito
+    Si pavoneggia in abito scarlatto,
+                      E a la modesta a un tratto
+    Margarituccia avventa un motto ardito,
+                      Che tutta in sè raccolta
+                      Lo sciocco non ascolta.
+
+    Ma fra noi, Margarite e Ortensie e Rose,
+    Tutta la flora femminile, ovvero
+                      Il calendario intero
+    Porge le orecchie sue poco sdegnose
+                      Ai papaveri spesso
+                      Che ci stan fitti appresso.
+
+
+XI.
+
+    Ma poi che il sol più eccelso a mezzo il giorno
+      Fiamme dardeggia intorno,
+      E fatta l'atmosfera
+      E tutta intera
+                 Un infinito incendio,
+
+    Il villanel dal mieter si riposa
+      Sotto la pianta ombrosa:
+      D'un solco s'accontenta,
+      Là s'addormenta
+                 E insetti invan lo pungono:
+
+    Cheta lo sugge la zanzàra e sozze
+      Mosche fan chiasso e nozze
+      Sopra il suo volto bruno;
+      Ei spesso alcuno
+                 Schiaffo s'avventa e scuotesi;
+
+    Non si desta però; con moto eguale
+      Scende il suo petto e sale
+      Ch'ei mostra ignudo, e i denti
+      Bianchi e lucenti
+                 Fra le sue labbra appaiono.
+
+    Or se anch'io nel più fresco nascondiglio
+      Della mia casa piglio
+      Libro o giornal fra mano,
+      Un subitano
+                 Sopor tutto mi domina.
+
+    Sull'ora calda in villa è dolce, è bello
+      Stiacciare un sonnerello;
+      Poi s'ha più lena a rudi
+      Opere e studi...
+                 E anche meglio si desina.
+
+    O eterni numi e santi, a voi non piaccia
+      Mai che altra vita io faccia
+      Da questa mia tranquilla
+      Ch'io meno in villa,
+                 Del mondo imbuscherandomi.
+
+    Vita mia, tu se' fatta della lieta
+      Fatica del poeta,
+      E d'ozio il più sereno;
+      Oh così almeno
+                 Durassi un mezzo secolo!
+
+    Or poscia il carro sul finir del giorno,
+      Fa dai campi ritorno
+      Carico dei covoni,
+      Ed i coloni
+                 Tutti presso lo seguono.
+
+    Lento in fondo alla corte il carro passa;
+      Più giù si stende bassa
+      La valle e quindi il colle
+      Sorge, che il molle
+                 Roseo tramonto imporpora.
+
+    Come in un nido, in cima al tremolante
+      Acervo è la festante
+      Frotta dei fanciulletti:
+      I buoi gl'insetti
+                 Con la coda si scacciano;
+
+    Col pungolo in ispalla e ignudo il piede
+      Primo il bifolco incede,
+      E le spigolatrici
+      Dalle pendici
+                 Cantando ultime scendono.
+
+
+XII.
+
+    Tutto spira l'idillio, e sol mi manca
+      Fillide bruna o Clori bionda e bianca
+                   Perchè l'egloga io tessa.
+    Ma quelle stan nei libri: nel contado
+      Al bel sesso non è che assai di rado
+                   Vera beltà concessa.
+
+    Ben tu fosti leggiadra, o gaia e svelta
+      Fanciulla che Diana avrebbe scelta
+                   Volontieri a compagna,
+    Quando in età più d'oggi assai felice,
+      Ella correa succinta cacciatrice
+                   Il bosco e la montagna.
+
+    Bella eri tu davvero, Anna. Sul colle
+      Come giovine pioppo il fine e molle
+                   Tuo corpo m'appariva.
+    Ed avea quel tuo corpo adolescente
+      D'una frutta anco acerba il prepotente
+                   Invito e l'attrattiva.
+
+    Ma d'ingenue malizie e di baleni
+      Avevi i lunghi e verdi occhi ripieni,
+                   Come zingara ispana;
+    E spesso il vento allegro e libertino
+      Giocava nel tuo crin sciolto e corvino
+                   E nella tua sottana.
+
+    Bella eri tu: dritta sugli erti solchi
+      Irridevi ai coloni ed ai bifolchi,
+                   Alcuna tua canzone
+    Lieta intonando; in fiamme era ponente,
+      Tu spiccavi sul cielo incandescente
+                   Come una visione.
+
+    Bella tanto eri tu che si potea
+      Rassomigliarti a una silvestre Dea:
+                   Ma più che Dea tu eri;
+    Una donna eri tu dolce e vezzosa,
+      Che divide coll'uom, sorella e sposa,
+                   I dolori e i piaceri.
+
+    E a te valse, fanciulla, il vago aspetto
+      Che avventurate nozze un giovinetto
+                   T'offerse imprevedute;
+    Ahi! ma ufficio di sposa e più di madre
+      Presto avvizzì le tue membra leggiadre
+                   E il fior di tua salute.
+
+    Or tu quando m'incontri ancor sorridi:
+      Ma da' precordii tuoi, come da nidi
+                   Augelletti irrompenti,
+    Più non iscoppian le vivaci note,
+      Nè più l'eco dei poggi ripercote
+                   Le risa tue frequenti.
+
+    Oh gioconde vendemmie! ti sovviene?
+      In lunga fila, con le ceste piene
+                   Dell'uva, dal vigneto
+    Scendono le ragazze barcollanti
+      Pel grave peso, e suona l'aer di canti
+                   E di schiamazzo lieto.
+
+    Versan poi l'uva entro l'ammostaruola
+      (Bada, i toscani dicono la cola)
+                   Finchè ce ne può stare.
+    Su vi balza a piè nudi un garzon tosto;
+      Ecco in pioggia minuta il roseo mosto
+                   Incomincia a colare.
+
+    Come son colme le bigoncie, il tino
+      L'uva ammostata accoglie, e ne fa vino
+                   In sette od otto giorni.
+    E ciascun giorno vasi empie novelli;
+      Oh ricchi giorni speranzosi e belli,
+                   Di cento gioie adorni.
+
+    E la diurna opra finita a sera,
+      Uomini e donne, la brigata intera
+                   In corte si raduna
+    A novellar pel fresco, dopo cena;
+      Cantan sull'aia e ballano, e serena
+                   Ride con lor la luna.
+
+
+XIII.
+
+    Così inoltra l'autunno, e il verno attende
+    Dietro l'alpe trentina ancor per poco;
+                     Ma l'aquilon già scende,
+                     E via con gran clamore,
+    Altisonante araldo, in ogni loco
+    Trapassa a volo e annunzia il suo signore.
+
+    Già piove spesso e le giornate intere.
+    Più non olezza dei recenti fieni,
+                     Come all'estive sere,
+                     Ma si fa giallo il prato.
+    A rivederci a quest'altr'anno, o ameni
+    Giuochi sull'erba; or troppo là è bagnato.
+
+    Or bisbigli non più di nidi occulti
+    Fra le pallide foglie e i rami neri,
+                     Ma del vento i singulti;
+                     Fredda è la sera e lunga,
+    Si sta chiusi in salotto volentieri,
+    Finchè di coricarsi il tempo giunga.
+
+    Torna del San Martino allor la state;
+    La caccia delle allodole le brevi
+                     Tepide mattinate
+                     Ne allegra, e il dolce arrosto
+    Ne rallegra le sere, e insiem vi bevi
+    Il vin ch'hai fatto del miglior tuo mosto.
+
+    L'autunnali mestizie il nuovo vino
+    Tempera in parte, e affatto poi le scaccia,
+                     Se appunto un bel mattino
+                     Alcun rude mercante
+    Lombardo appare a cui quel vino piaccia,
+    E che tutto lo compri in poco istante.
+
+    Oh del bel sole estremi e dolci raggi!
+    Oh scampanìo che annunzia le gioconde
+                     Sagre giù pei villaggi,
+                     Che nella valle stanno!
+    Oh tristezza gentil che a noi s'infonde
+    Da quest'ultime gioie, ahimè, dell'anno!
+
+    Tu novembre, tu se' come colui
+    Che troppo tardi al bel convito arriva,
+                     E poco tocca a lui.
+                     Natura a te non serba
+    Che alcun raggio di sole, e non coltiva
+    Per te che grami fiori e inutil erba.
+
+    Ma come sopra il tuo breve orizzonte
+    Fosche nubi tu addensi e mesto sei,
+                     Così sulla mia fronte,
+                     Ch'io nella man sostengo,
+    Foschi dubbi s'addensano ed a miei
+    Casi pensando in triste modo io vengo.
+
+    Che faccio io qui nell'uniforme vita?
+    Fra non intere gioie e non interi
+                     Affanni intorpidita
+                     Si culla inutilmente
+    L'anima — e ciò mi piacque infino a ieri;
+    Oggi invece mi tedia orribilmente.
+
+    Pur come fuor della finestra invano
+    L'occhio tendo e null'altro io vedo in giro
+                     Che nebbia ai monti e al piano
+                     Solitudine bieca,
+    Così nel mio futuro io nulla miro
+    Fuorchè landa deserta, e nebbia cieca.
+
+    Che valse a me d'alcun mio dotto errore
+    Empire il dì solingo, e della notte
+                     Sprezzare il don migliore
+                     E consumar gran parte,
+    Chino le membra tormentate e rotte
+    Su libri avari e su infeconde carte?
+
+    Che mi valse o varrà? L'Italia amena
+    Fin nell'insigne cattedra imbandisce
+                     Spesso ai ciuchi l'avena;
+                     E dell'eguale alloro,
+    Tanto ad un suo poeta il serto ordisce,
+    Quanto a celar gli orecchi lunghi a loro.
+
+    Ma non da te l'ufficiai premio attesi,
+    O bell'arte dei carmi, che dal padre
+                     Io fanciulletto appresi.
+                     Per natural talento
+    Cerco dar forme al pensier mio leggiadre,
+    Di ciò sol, se riesco, assai contento.
+
+    Che sperar più? Spento è nel vate il dio;
+    Neppure il vate stesso anzi più esiste:
+                     Che importa? Un uom son io,
+                     Nè d'esser più mi cale;
+    Benchè d'esserlo ognun faccia le viste,
+    Non è sì facil cosa essere tale.
+
+    Se non che ratti, ahimè, volano gli anni!
+    Muore novembre e il verno gli succede;
+                     Ma poi ripara ai danni
+                     Primavera gentile.
+    Non così avvien di noi, chè più non riede
+    Quando fiorì una volta il nostro aprile.
+
+    Io rifeci la casa a poco a poco,
+    Che fu de la mia gente antico nido;
+                     Or più non move il fioco
+                     Suono dell'età spenta
+    Da queste mura, ma il giocondo grido
+    Dell'avvenir parmi che intorno io senta:
+
+    «Or che rifatto è il nido, a che la bella
+    Sposa non meni e la dimora antica
+                     Dei padri di novella
+                     Famiglia non allieti?» —
+    Così intorno m'ascolto in voce amica
+    Susurrar le domestiche pareti.
+
+    «Bada a' tuoi casi finchè in tempo sei;
+    Piglia una bella giovine in isposa,
+                     Fa all'amore con lei,
+                     Ed abbi dei figliuoli;
+    Aver donna e fanciulli è degna cosa
+    D'ogni uom dabbene, e guai quaggiuso ai soli!
+
+    Miseri a lor che per non darsi cura
+    D'una famiglia, solitari stanno!
+                     Voi per goder Natura,
+                     Voi per soffrir compone,
+    E la vita è nel gaudio e nell'affanno,
+    Non nell'ignavia che a nulla s'espone.
+
+    Folle se tu di sdruccioli e di piani
+    Versi tutta la vita occupar vuoi.
+                     Non isfuggir gli umani
+                     Più comuni destini:
+    Fa d'esser pria buon uomo, e sii da poi
+    Buon poeta, se proprio in ciò t'ostini.» —
+
+    Così talor nella stagione immite
+    Odo sonarmi queste voci in cuore
+                     Fra le ringiovanite
+                     Mie domestiche mura.
+    Oh solitudin tetra, oh eterno amore,
+    Oh voci della santa alma Natura! —
+
+
+XIV.
+
+    Però accadde a me pur, nè più nè meno,
+                Di prender moglie (adesso
+                Già già quattro anni volgono);
+    E senz'altro con lei pigliato il treno,
+                Venimmo il giorno istesso
+                Al nido mio domestico.
+
+    La stanza nuzïal bianca e raccolta
+                Mi parve un tempio arcano;
+                Quivi sorgeva il talamo
+    Simile a un'ara in veli sacri avvolta,
+                Dov'abbia un sovrumano
+                Soave rito a compiersi.
+
+    Calava il giorno: il pranzo era allestito;
+                Di lumi e assai di fiori
+                E di cristalli splendido
+    Era il salotto inver, ma l'appetito
+                Non venne a far gli onori
+                Della gioconda tavola.
+
+    La giovanetta sposa incerta e mesta
+                Per la madre lasciata,
+                Poco recossi al roseo
+    Labbro; io stesso badavo, in gran tempesta
+                D'amor, con la posata
+                Sulla tovaglia a incidere.
+
+    Per finger calma cose indifferenti
+                Io dicevo alla sposa,
+                Che sorrideami languida;
+    Ma nelle vene mi correan torrenti
+                Di lava impetuosa,
+                E la voce tremavami.
+
+    Alla fanciulla affetti molti e vari
+                Urtavano il bel seno:
+                Certo la inquïetudine
+    D'esser così lontana da' suoi cari,
+                Sola di notte, in pieno
+                Poter d'un baldo giovine,
+
+    Che le dicea d'amarla e la copria
+                Di veëmenti baci;
+                E al tempo istesso il giubilo
+    D'esser con lui; di sposa l'allegria,
+                E trepide vivaci
+                Curiosità virginee.
+
+    Poi sul terrazzo uscimmo. Ivi la bruna
+                Valle tacea; ma il fiume
+                Mandava un lene murmure;
+    Da vaghe stelle e da la tersa luna
+                Piovea candido lume
+                Entro gli spazi ceruli.
+
+    Oh sacra Notte, che proteggi il pio
+                Dolce rito d'amore!
+                La taciturna vergine
+    Posò il capo sul destro omero mio,
+                E le sentivo il core
+                Tumultuoso battere.
+
+    Io le cingea col braccio la persona
+                Flessibile, sovente
+                La chioma aurea baciandole;
+    Palpitando sentìa la casta e buona
+                Fanciulla in sen repente
+                Desii nuovi agitarsele.
+
+    Ed ecco allor da un grande accoramento
+                Di non so che d'arcano
+                Io mi lasciavo cogliere,
+    Quasi che di mestizia e di sgomento
+                Ogni solenne umano
+                Gaudio misto abbia ad essere.
+
+    La fautrice Notte indi con dura
+                Brezza già ne pungea
+                A rientrar spingendone:
+    Ci ammiccavano gli astri e la Natura
+                Tutta di noi parea
+                Compiacersi e sorridere.
+
+
+XV.
+
+    A questo carme, cui principio diedi
+      Triste al deserto focolar dappresso,
+    Io lietamente pongo fine appiedi
+      D'una culla sedendo invece adesso.
+
+    Ivi riposa il figliuol mio bambino
+      Il qual come tra nevi arcano fiore,
+    Tra i lini appar del candido lettino
+      Che a lui compon la madre ebbra d'amore.
+
+    Primogenito mio, che dalla intensa
+      Gioia d'un novo amor fosti concetto,
+    E non alfine poi dalla melensa
+      Abitudine ahimè del comun letto;
+
+    O primizia d'amor che la vitale
+      Origin bella hai nelle fibre impressa,
+    E in ogn'atto, e nel riso senza eguale,
+      E in tutta in tutta la persona stessa;
+
+    Bello come la madre e roseo e biondo,
+      Cui l'anima pensosa tuttavia
+    Della paterna stirpe all'occhio in fondo
+      Tra la nebbia infantil s'apre la via;
+
+    Putto che avrebbe Raffael sul seno
+      Posto alla Vergin sua più bella e pura,
+    Vegeto, vispo, sorridente, pieno
+      Dei miglior doni che può dar Natura;
+
+    Pargoletto gentil, che il nome porti
+      Del mio nobile padre e sei mio figlio,
+    Onde il passato e l'avvenir conforti,
+      Verso i quali man triste io levo il ciglio;
+
+    Se giusta forma io dar m'affido a questi
+      Affetti miei t'offendo e stolto sono,
+    E quantunque or tu dorma (e nol sapresti
+      Pur vegliando) ti chieggo ancor perdono.
+
+    Ma finchè tu riposi e insiem talora
+      Sorridi e mormorando alcun accento
+    Ricordi i giuochi tuoi sospesi or ora,
+      Mentre io qui seggo a vigilarti attento,
+
+    I pensier miei s'affollano d'intorno
+      Al tuo bel volto, e ai biondi ricci sparti,
+    E pigliano del verso il metro adorno
+      Per spontanea virtù, nel vagheggiarti.
+
+    Che se tu desto sei, forma migliore
+      Io trovo, forma di carezze e baci,
+    Alla soave poesia che in cuore
+      Mi mettono le tue grazie vivaci:
+
+    Ben so che tu non sei dal ciel disceso,
+      Nè un angioletto fosti pria che nato;
+    Voi per fingere gli angeli hanno preso
+      I pittori a modello e v'han copiato,
+
+    Voi figliuoli dell'uom piccioli e belli;
+      Poi mutando la causa nell'effetto
+    Non inventati a imagin vostra quelli,
+      Ma voi creati a immagin loro han detto.
+
+    Ma io che non ci tengo al sovrumano,
+      Qual sei più t'amo, dolce creatura
+    Di nostra razza, bel fanciullo umano,
+      Nato per opra di gentil natura.
+
+    Per le ingenue tue grazie e i tuoi sereni
+      Occhi la gloria di quaggiù si mostra,
+    Se è ver che d'altro tu quaggiù non vieni
+      Luogo più eccelso della terra nostra.
+
+    O Natura di cui supremo è intento
+      La vita, innanzi a te bacio la terra
+    Che l'uom calpesta altero, e a te stromento
+      È di quanti prodigi il mondo serra,
+
+    Mi prostro innanzi a te, saggia e possente
+      Natura, e movo a te calda preghiera;
+    Questa, che al figliuol mio vita recente
+      Donasti tu, fa ch'egli compia intera;
+
+    E allorchè fatto adulto e di sè stesso
+      Sicuro alfine l'ultimo saluto
+    Ei mi rivolga, al letto mio dappresso,
+      Non parrà a me che indarno io sia vissuto.
+
+
+
+
+CATASTROFE
+
+
+    C'era una volta un mesto cavaliero,
+                   Assai mesto davvero:
+    Solo abitava in un vecchio castello,
+                   Sulla riva del mare:
+                   Solea ciascun augello
+    E ciascun fior che lo vedea passare
+                   Di lui meravigliare:
+
+    Tanto della persona trascurato,
+                   Discinto e spettinato,
+    Uscia talor per la contrada intorno.
+                   Pure sedea più spesso,
+                   Quanto era lungo il giorno,
+    Nella sua stanza, col capo dimesso,
+                   Tutto chiuso in sè stesso.
+
+    Prima del tocco non andava a letto.
+                   Dinanzi al caminetto
+    Solea d'inverno consumar le sere;
+                   Ci si obliava ancora
+                   Per delle notti intere,
+    E tu invano la voce alzavi allora,
+                   Onda del mar sonora.
+
+    Ed ecco in notte procellosa e nera,
+                   Di mezzo alla bufera,
+    Tra il fulminìo che scoppia orrido e fitto,
+                   Un grido l'aere fende:
+                   Balza il garzone ritto,
+    E un'angoscia infinita il cor gli prende,
+                   Com'ei quel grido intende.
+
+    E si picchia alla porta. Oh non invano
+                   Picchi, o vezzosa mano!
+    Ei corre al saliscendi e tutto l'alza.
+                   Ed alto a lungo il tiene.
+                   Or seminuda e scalza
+    Una donna che appena si sostiene
+                   Su per le scale viene.
+
+    Egli è in cima di queste, e dal suo canto
+                   Tace e fa lume intanto.
+    «Io son qui per morire ai piedi tuoi,
+                   Per chiederti perdono...
+                   Tu ancor bene mi vuoi...
+    Se ti lasciai per altri in abbandono,
+                   Mira in che stato or sono!» —
+
+    Questo disse la donna, ed ei rispose:
+                   «Ahimè! di queste cose
+    Penetrato son io profondamente.
+                   Voi siete assai malata,
+                   E fu molto imprudente
+    L'arrischiarvi a sì lunga passeggiata
+                   In notte sì arruffata.
+
+    Veniste in legno?.. Oh come sulle spalle
+                   Non buttarvi uno scialle?..
+    Bisogno avrete di dormire, io credo;
+                   Ho un sol letto e piccino
+                   Ch'io volentier vi cedo.
+    Berreste pria qualcosa? Un centellino
+                   Di rumme? un po' di vino?..» —
+
+    Come udì queste cose la fanciulla
+                   Non osò dir più nulla,
+    Ma sull'indifferente alzando gli occhi
+                   Timida e sbigottita,
+                   S'accasciò sui ginocchi
+    E chinando la testa illanguidita
+                   Passò di questa vita.
+
+    Il cavalier che al caso inaspettato
+                   Non era apparecchiato,
+    Pur vedendo la bella creatura
+                   Venire a un tratto meno,
+                   Con improvvisa cura
+    Su lei gittossi e d'alta ambascia pieno
+                   Tentolle i polsi e il seno.
+
+    Ella era morta, ed egli non sostenne
+                   Di viver oltre, e venne
+    Alla finestra, e si buttò di sotto.
+                   Com'era naturale
+                   Egli ebbe il collo rotto.
+    Amor, per quanto il salto sia mortale
+                   Già non impresta l'ale.
+
+    Badino a ciò i Signori e le Signore
+                   Che or fossero in amore.
+    Che se fede al mio dir non si rifiuta,
+                   Codesto è il mio parere:
+                   Amore è febbre acuta.
+    Badate a voi: non facile è sapere
+                   Quel che ne può accadere!
+
+
+
+
+STORIA D'OGNI DÌ
+
+    _Si quoties homines peccant sua fulmina mittat_
+      _Iupiter, exiguo tempore inermis erit._
+                            OV. TRIST. 2, 33.
+
+
+    Sull'imbrunir costà sotto le piante
+    Va passeggiando il giovine elegante.
+          Il bel garzone aspetta
+            A quanto pare:
+          Ecco arrivare
+            Allor la giovinetta,
+    La giovinetta ch'egli appunto attende;
+    Ei senz'altro a braccetto se la prende.
+
+    A braccetto la prende e se ne vanno:
+    Confidenze leggiadre insiem si fanno:
+          Anco si son diretti,
+            E senza fine,
+          Amabili occhiatine
+            E sorrisetti.
+    Sono così dov'ella sta venuti:
+    Quivi indugiano un pajo di minuti.
+
+    Quivi indugiano un pajo di minuti:
+    Fra lor si fanno teneri saluti:
+          Si tengono le mani;
+            Egli sommesso
+          Dice: «A domani,
+            All'ora e al luogo istesso.»
+    Peggio, avanzando oltre la soglia il piede
+    Vuole abbracciarla; ella resiste e cede.
+
+    Passa del tempo, e siamo in carnevale.
+    Si fa in teatro un baccano infernale.
+          Colà bizzarre genti
+            In frenesia;
+          Luce, strida, armonia,
+            Colà a torrenti.
+    Questa cosa si chiama il veglïone,
+    E ci van mascherate le persone.
+
+    Le persone ci vanno mascherate;
+    Due ne conosco che ci sono andate.
+          Ella è con lui venuta
+            In questo loco:
+          Ella è perduta,
+            O ci manca assai poco.
+    Cheta, cheta di casa ell'è sfuggita,
+    Per qui venire ove piacer l'invita.
+
+    Niun la conosce, ed ammirata è molto.
+    Snella, succinta, in rosea seta il volto,
+          E il mento s'incortina
+            In velo fosco.
+          Io ti conosco,
+            O bella mascherina;
+    Tu sei la bimba che a cercar l'amante
+    Venia, sei mesi fa, sotto le piante.
+
+    Passa del tempo; ed ecco all'ospedale,
+    Venire una fanciulla che sta male.
+          Ella sta mal di parto,
+            E partorisce.
+          Come imbrunisce
+            Il novellino parto
+    In quattro cenci con bel garbo è posto,
+    E con bel garbo ai Trovatelli esposto.
+
+    Non senza essere stata in fin di vita
+    Di puerperio ella è pertanto uscita.
+          Provò le doglie,
+            Or le cure leggiadre
+          E della madre
+            Il gaudio le si toglie.
+    Peggio ancora; di casa l'han cacciata,
+    E l'amante da un pezzo l'ha piantata.
+
+    Ma perchè il giovin caro, e a te posticcio
+    Sposo alfin s'è levato il suo capriccio,
+          E di quel ch'indi è nato,
+            Or non gli cale,
+          Col virginale
+            Il fior non è passato
+    Di tua bellezza, e se co' piè vezzosi
+    Premi la terra, irrompono altri sposi.
+
+    Bensì l'hanno di casa anche bandita,
+    Ed è pel duolo e pei digiuni attrita,
+          E non può lavorare,
+            E non servire:
+          Or come fare?
+            Ella non vuol morire.
+    Nè manca gente di sì buon volere,
+    Che a lei si presti con tutto il piacere.
+
+    Passa altro tempo ed ecco in luogo ascoso,
+    In luogo arcano, ch'io nomar non oso,
+          Viene a brillar novella
+            Un'altra stella,
+          Più di tutte gioconda
+            E invereconda.
+    Ella passò da pria di mano in mano.
+    Per venir poscia al luogo ascoso e arcano.
+
+    La sua pratica intanto d'avvocato
+    Il bravo giovanotto ha terminato.
+          Di lui molto si spera:
+            È dotto, esperto,
+          E farà certo
+            Un'ottima carriera.
+    Se sol per caso una fanciulla ei guata
+    Gode la mamma, e tiensene onorata.
+
+    Or come avvien, dich'io, ch'ei prende moglie
+    Che già la stanza nuzïal l'accoglie,
+          E non il tetto piomba,
+            E non la terra
+          Gli si diserra
+            In improvvisa tomba?...
+    Ahimè non basta il peccatuccio ignoto,
+    Ci vuol ben altro a farmi un terremoto!
+
+    Finir solennemente la ballata
+    Io sperai con la casa ruinata,
+          Col suol che si sprofonda
+            E l'empio inghiotte
+          Seduttore in profonda
+            Eterna notte... —
+    Ma! che volete? assai di rado avviene
+    Ciò che ai poeti meglio si conviene.
+
+
+
+
+NEL CHIOSTRO
+
+
+    Una donna nel fior degli anni suoi,
+        Ahimè! zitella e monaca,
+    Ratta trapassa e muta i corridoi
+        Del chiostro, e nel solingo
+        Tempio, con piè guardingo
+        Trepidando s'insinua.
+
+    L'agita da più giorni un senso arcano,
+        Profondo, indefinibile,
+    Contro del quale ogni cilicio è vano.
+        Or costei della chiesa
+        Sul duro suol prostesa
+        Le ginocchia si logora.
+
+    A lungo prega e si percote il seno.
+        Dai vetri alti e d'imagini
+    Sacre dipinti, un mite raggio pieno
+        Di calmi effetti scende
+        Nel loco, e più lo rende
+        Misterioso ed intimo.
+
+    Quivi penetra pur di maggio il molle
+        Fiato ed il misto effluvio
+    Voluttuoso delle aperte zolle
+        E degli alberi in fiore,
+        E d'augelli in amore
+        Uno schiamazzo gaio.
+
+    Male a codesto irromper di Natura,
+        Del chiostro mal s'oppongono
+    E del tempio le enormi e fredde mura.
+        Le voci e il gran respiro
+        Del maggio nel ritiro
+        Più segregato arrivano.
+
+    E ricercan le fibre e il seno oppresso
+        Di quella orante pallida,
+    A cui langue sul labbro e in cuore adesso
+        La fervida preghiera;
+        E la pupilla nera
+        Alza ella intorno, e palpita.
+
+    E contro un'arca sepolcral che sorge
+        Quivi appresso marmorea
+    Preme la fronte, e tenta se a lei porge,
+        Ch'arde in non so qual tetra
+        Fiamma, se quella pietra
+        Porge a lei refrigerio.
+
+    Giacea dentro quell'arca seppellito
+        Un guerrier morto giovine.
+    Ed il corpo di lui v'era scolpito
+        Sopra, in tutta armatura,
+        Qual di viso e statura
+        Fu durante il suo vivere.
+
+    Giacea supino e rigido in arnese
+        Di marmo e non d'acciaio;
+    Chiuse nel guanto avea le mani e stese
+        In croce sovra il petto;
+        Ritti dal duro letto
+        I piedi suoi s'ergevano.
+
+    Era il suo volto bello e sorridente;
+        Una sottil lanuggine
+    Ombreggiava il suo labbro adolescente,
+        Su cui di fanciullezza
+        Le grazie, alla fierezza
+        Del cavaliere univansi.
+
+    E a quel volto e a quel labbro ad ora ad ora
+        Cupidamente il trepido
+    Occhio volgea l'incerta donna, e ancora
+        Venia di quando in quando
+        Quel viso accarezzando,
+        Senza quasi avvedersene.
+
+    Ed ecco il sol posarsi su quel viso
+        Con un suo raggio roseo,
+    Che sembrò dargli vita all'improvviso,
+        La vergine su quelle
+        Giovani labbra e belle
+        Chinossi allor, baciandole.
+
+    Tenne costà sopra l'altar Maria
+        Gli occhi dimessi e immobili;
+    Ella sposa, ella madre compatia.
+        Ma un Santo scarmigliato,
+        Ch'ivi sul muro a lato,
+        Si struggeva di tedio,
+
+    Pensò che avria pur volentieri tanto
+        Mutata ei la cospicua
+    Condizione sua d'insigne Santo,
+        Coll'uomo che così scôrse
+        Esser baciato, e forse
+        Dannato era in perpetuo.
+
+    Sul duro sasso che ha virile aspetto
+        Inconscia ella ed immemore
+    Frattanto illividisce il labbro e il petto
+        In baci e strette vane.
+        A lungo ella rimane
+        Così in quel suo delirio.
+
+    Folle è dunque costei? Certo io non credo.
+        Bensì nel cuor le fervono
+    Venticinqu'anni; e il bel natio corredo
+        Di sue forze vitali
+        Non valser monacali
+        Veglie e digiuni a toglierle.
+
+    A lei la vita entro le vene abbonda
+        D'ottimo sangue turgide;
+    E di quel sangue la precipit'onda
+        Menava un novo senso,
+        Un desiderio intenso
+        Di gioie indefinibili.
+
+    Pure ignorava, e nella mente oscura
+        Larve ambigue ondeggiavanle,
+    Come ondeggian le nubi ed han figura
+        Ambigua in notte nera,
+        Allor che la bufera
+        Lenta nel ciel s'accumula.
+
+    E incerta ansia turbava e indefinita
+        Temenza quella misera;
+    Nè a calmarla valea della sua vita
+        Le durezze addoppiare,
+        Nè supplice all'altare
+        L'intero giorno spendere.
+
+    Perocchè eterna legge è di Natura
+        Che la fiorente e giovane
+    Donna d'amor la prima e dolce cura
+        Dall'uom fervido apprenda,
+        E non ritrosa ascenda,
+        Benchè pudìca, il talamo.
+
+    E del compagno i men sereni giorni
+        Irradii coll'ingenuo
+    Riso; di grazie la sua casa adorni;
+        Il desco suo circondi
+        Di rosei capi biondi; —
+        E ognor vita ripulluli.
+
+
+
+
+ODE AL VINO
+
+
+    Quando tarda è la notte, e sopra il foglio
+      Langue il mio capo e il petto
+    Stanco mi chiede, s'io cessar non voglio
+      Pure una volta, e a letto
+    Ridurmi finalmente, io bevo un mezzo
+      Bicchier di vino allora,
+      Che tosto mi ristora,
+    E sveglio tuttavia mi tiene un pezzo.
+
+    Sveglio mi tiene, e un lieto ardore in seno
+      M'infonde, e di fantasmi
+    Ilari e vispi ho tosto il cervel pieno
+      E il cuor d'entusïasmi,
+    I quali in ozio lento e taciturno
+      Del sigaro col blando
+      Fumo io vado esalando
+    Entro il cheto e solenne aere notturno.
+
+    Bene a ragion ti finse, a parer mio,
+      L'ingenuo tempo antico,
+    O amabile liquor, dono d'un dio
+      Molto dell'uomo amico.
+    Della vita operosa a questo mondo
+      Tu sei celeste aita;
+      Tu della stanca vita
+    Sei conforto, anzi meglio oblio profondo.
+
+    Tu forte e generoso il braccio e il cuore
+      Ecciti ad alte imprese;
+    Tu il fiacco affranchi, e sei di nuovo ardore
+      Al prode ognor cortese.
+    Dal nettareo tuo bacio a morte vola
+      La gioventù esultante,
+      Che, a vendicarsi, innante
+    Con molta morte altrui la sua consola.
+
+    Tu benigno e soave in cor discendi
+      D'artisti e di poeti,
+    E negli esausti seni riaccendi
+      Gli estri fecondi e lieti.
+    Tu gli armi di coraggio e noncuranza
+      Contro la plebe inetta,
+      Che un senso altero affetta,
+    Ch'esser vuole disprezzo ed è ignoranza.
+
+    Tu animator della fulgente mensa,
+      I lauti e molti doni
+    Che la natura e l'arte ivi dispensa
+      D'alta allegria coroni.
+    Tu gli astii antichi allora e i bronci sciogli,
+      Più stringi l'amicizia,
+      Lo scherzo e la letizia
+    Fai che in petto e sul labbro a ognun germogli.
+
+    Ma più grato talora a cena in fido
+      Salottino elegante,
+    O a merenda sull'erba in verde lido
+      E sotto ombrose piante,
+    Fra due che amor soli e vicini asside,
+      Tu complice secondi
+      L'opera, e ti profondi
+    All'uno e all'altra, e lieto amor ne ride.
+
+    Ti prodighi al garzone, ed alla bella
+      Spesso le labbra irrori;
+    Egli facondo e audace è fatto, ed ella
+      Sente inusati ardori.
+    Tu dall'un canto e amor dall'altro a prova
+      Sì bene ordite il laccio,
+      Che non sa come, e in braccio
+    Del giovine la bella alfin si trova.
+
+    O elisir della vita e del piacere!
+      Trar non può il vulgo insano
+    D'altro liquor le gioie tue sincere;
+      Ma quegli di sua mano
+    S'attossica, che ad altro assai più ardente
+      Liquore il labbro accosta,
+      E poi che men gli costa
+    A questo più che a te corre sovente.
+
+    Io lo compiango, e da compianger meno
+      Colui non parmi, al quale
+    Dissetarsi convien d'altro veleno,
+      Che sol con te d'eguale
+    Ha il nome, e non da tralci adusti cola,
+      Ma d'artificii è fatto,
+      E dee chi a berlo è tratto
+    Foderata di rame aver la gola.
+
+    Non io così; chè sovra il colle avito
+      Io medesimo assisto
+    Alla vendemmia, e a tutto il gaio rito
+      Di varie opere misto,
+    Pel qual tu poi dal romoroso tino
+      Zampillerai ben tosto,
+      Fatto di torbo mosto,
+    Terso, vermiglio e spumeggiante vino.
+
+    E ch'indi ognor tu sia più terso e puro
+      Ancora avverto io stesso,
+    Finchè l'anno compito e tu maturo,
+      Provvedo io pur che messo
+    In bottiglie tu sia, dove ti renda
+      Degno un altr'anno alfine
+      Che su dalle cantine
+    Alla tavola lieta e al labbro ascenda.
+
+    Tu gioia allora e orgoglio mio tu sei!
+      Oh! ma ben più di questo:
+    Se corsero finora i giorni miei
+      Liberi e d'ogni infesto
+    Pondo immuni, che all'uom duro bisogno
+      Impone, io ciò ti deggio;
+      Però t'adoro e inneggio
+    Pubblicamente a te, ne mi vergogno!
+
+    Più che all'ingegno mio (nè qui discuto
+      Se ciò sia giusto o ingiusto)
+    Della facile vita io son tenuto
+      Al tralcio d'uve onusto,
+    E a te che quindi, almo liquor, distilli,
+      Sul breve colle aprico,
+      De' miei retaggio antico,
+    E asil di studiosi ozii tranquilli,
+
+    Sì, o mio buon vino, a te che il mercatante
+      Lombardo molto apprezza,
+    A te solo degg'io se nè abbondante
+      Vitto, nè l'agiatezza
+    Manca a miei cari: se non è chi'io sudi
+      Ora in uffici ingrati,
+      E invece a non pagati
+    Dedicar mi potei leggiadri studi;
+
+    Se a Destri nè a Sinistri io mai non chiesi
+      Il più lieve piacere;
+    Se libero ai caduti e ai novi ascesi
+      Dir posso il mio parere,
+    Se onoranze da lor nè lucri agogno
+      Ciò a te soltanto io deggio;
+      Però t'adoro, e inneggio,
+    O vino, al nome tuo, nè mi vergogno!
+
+  _Settembre 1876._
+
+
+
+
+PIOGGIA DI MAGGIO
+
+
+    Precipita giù giù sulla campagna
+      Una pioggia diffusa ed incessante;
+    Luccican sotto l'onda che le bagna
+      L'erbe, le siepi e le chiomate piante.
+
+    L'alta malinconia che dal ciel viene
+      Copre la valle, e la gioconda festa
+    Ch'ivi nel maggio il color verde tiene
+      Oggi appare in sembianza oscura e mesta.
+
+    Ozioso sull'uscio io sto mirando
+      Al lontano orizzonte in nebbia avvolto,
+    E crepitar la pioggia, flagellando
+      Le terse ghiaie e l'ampie fronde ascolto.
+
+    Così dentro di me piove a distesa;
+      Son gli orizzonti della mente mia
+    Velati anch'essi, e un vago in cor mi pesa
+      Senso di non so qual malinconia.
+
+    Ma dalla pioggia grande e dalle meste
+      Sembianze onde si copre oggi Natura,
+    Nova beltà ritragge e miglior veste
+      Di vaghi fiori e di gentil verdura.
+
+    Dalle tristezze sue così potesse
+      L'anima annuvolata e il tetro core
+    Ritrar di carmi più gioconda messe,
+      Vestir di poesia novo splendore!
+
+
+
+
+LA STRADA
+
+
+    Non c'è che dire, un'eccellente strada:
+      La migliore ch'io m'abbia conosciuta;
+    Chi su ci va, gli par che in letto vada,
+      Tanto è piana, ben fatta e ben tenuta.
+
+    D'ambo le parti un'irta siepe e bianca
+      Per molta polve la costeggia, e il piano
+    Oltre quella s'estende a ritta e a manca
+      Triste a veder da presso e da lontano.
+
+    Nè una casa per via, che a sè comunque
+      L'occhio richiami, per gran tratto appare:
+    Solitudine siede intorno ovunque:
+      Ciò è seccante davvero a lungo andare.
+
+    Ecco, o eccellente strada, o al passeggiere
+      Comodissima strada e ben costrutta,
+    S'io t'ho a dir veramente il mio parere,
+      O bella strada mia, tu sei pur brutta!
+
+    Sovente in orlo alla deserta via
+      Sorge una croce e reca triste avviso,
+    Ch'ivi un fatto di sangue si compia,
+      Ch'ivi talun fu derubato e ucciso.
+
+    Penso: se a me seguisse un caso eguale!
+      Non dirò ucciso, ma se almen foss'io
+    Quivi aggredito! È certo; o bene o male
+      Scosso assai ne sarebbe il tedio mio.
+
+    Ma non c'è dubbio; or son le vie sicure;
+      Io ben so che nei ladri non ci casco;
+    Io di false, romantiche paure,
+      Di liceale poesia mi pasco.
+
+    Torniamo al sodo; io realista sono.
+      Cuoce la cena a casa mia. La moglie
+    Piacente, ed ambo i rosei bimbi sono
+      Stanchi già d'aspettarmi in sulle soglie.
+
+    Ed io sto a far per via con sì bel gusto
+      Il poeta romantico! e le reni
+    Al cavallo non frusto e non rifrusto,
+      Perchè fra i cari miei tosto mi meni!
+
+
+
+
+MENDICANTI CAMPESTRI
+
+
+    Viene la curva vecchierella tremula
+      In sulla soglia mia
+      A dir l'ave maria
+        Chiedendo l'elemosina.
+
+    Non è in cucina alcun che a lei sollecito
+      Rechi adunque qualcosa?
+      Perchè la bisognosa
+        Vecchietta fate attendere?
+
+    Povera donna! — Può d'altronde accorgersi
+      Che senza guardia è il posto,
+      Entrarvi di nascosto
+        E una posata prendersi.
+
+    Viene anco il vecchio scarmigliato e pallido
+      A dir l'ave maria
+      Sopra la soglia mia
+        Chiedendo l'elemosina.
+
+    Povero vecchio, presto soccorretelo!
+      Mentre aspettar lo fate
+      Forse le inferriate
+        Delle finestre studia.
+
+    Studia qual sia la più vetusta e logora...
+      Non si sa mai: diurno
+      Mendico ei vien — notturno
+        Ladro potrebbe riedere.
+
+
+
+
+MIRAMAR
+
+                                                  (_Note di viaggio_)
+
+
+    Benchè egli fosse un arciduca austriaco,
+    Che il diavolo mi porti s'io non caccio
+                  Dentro il mio scartafaccio
+                  Quattro versi d'encomio
+    Pure a costui, che fece un così bello
+                  Elegante castello
+                    Su queste balze inospiti.
+
+    Se della sanguinaria, ma non tragica
+    Razza d'Asburgo nacque, egli al postutto
+                  Di ciò non venne istrutto
+                  Da pria, nè potea sciegliere:
+    La Natura da pria non si consiglia
+                  Con noi di qual famiglia
+                    Ci garbi meglio nascere.
+
+    Io d'altra parte di costui non m'occupo
+    Se non perchè egli fu poeta e artista.
+                  Da un tal punto di vista
+                  Cosa migliore io giudico
+    Ch'ei di regal nascesse, benchè infesto
+                  Sangue, più che d'onesto
+                    Sangue di pizzicagnoli.
+
+    E infatti buon per lui, chè lo spettacolo
+    Grande dell'arte non gli fè difetto
+                  Fino da pargoletto,
+                  Quando alle prime imagini
+    Che ci mostra la vita, il cor s'informa,
+                  E ne riceve norma,
+                    Che gli anni non cancellano.
+
+    Buon per lui, cui fu tutta innanzi l'ampia
+    Terra dischiusa, ancor fanciullo essendo,
+                  L'oceano e lo stupendo
+                  Emisfero d'America.
+    Fanciullo avventurato! Al compimento
+                  Del suo più baldo intento
+                    Non si frappose ostacolo.
+
+    Più avventurato ancor, chè dello artistico
+    Ingegno egli poteva il grande appello
+                  Tutto ascoltar: del Bello
+                  Comporsi un culto, e tempio
+    Farne la casa sua, poich'egli senso
+                  Ebbe del Nume, e censo
+                    Più di re che di principe.
+
+    Così questa ei potea villa incantevole
+    E il fatato giardino e il picciol porto,
+                  Così per suo diporto
+                  Crear potea l'idillio
+    Non di parole, ma di marmi, e sulla
+                  Ripa inamena e brulla
+                    Far che fiorisse l'oasi.
+
+    Ma fu qui appunto fra la verde e amabile
+    Poesia ch'e' si venne a poco a poco
+                  Creando in questo loco,
+                  Qui fu che il gentilizio
+    Morbo del sangue principesco invase
+                  Lui pure, e il persuase
+                    Che re il volesse un popolo.
+
+    Io non so quale illusïon vi domini,
+    O prosapie d'antichi vïolenti,
+                  Ch'abbian da voi le genti
+                  La salvezza e il benessere.
+    Razza di lupi or tutti siete agnelli.
+                  E pel ben dei fratelli
+                    Vi condannate al solio.
+
+    Ma questa illusïon nessuno illudere
+    Può al giorno d'oggi più. Sotto le umane
+                  Parole stan le arcane
+                  Bramosie del dominio.
+    Tu, sciagurato Max, tu della moglie
+                  Le ambiziose voglie
+                    Non sapesti reprimere.
+
+    Così da questo di serene gioie
+    Cheto nido, affidati al dubbio evento,
+                  Correste a perdimento.
+                  Ella il senno smarriane;
+    Tu da sedizïoso avventuriero
+                  Trattato fosti; e invero
+                    Fu il modo spiccio e semplice.
+
+    Io lodare non voglio i tuoi carnefici.
+    Ma un lor diritto usarono. Sicuro,
+                  Il più crudele e duro
+                  Dei lor diritti. Mescerti
+    Tu non dovevi a quelle quistioni.
+                  Se fecer da padroni
+                    In casa lor, ben fecero.
+
+    Qual funesta malia te alle blandizie
+    Dell'arte nato tristamente colse,
+                  E il cor gentile avvolse
+                  E il tuo leggiadro spirito
+    Entro l'ambage occulta e disleale
+                  Di questa imperiale
+                    Tua sciagurata insania?
+
+    Vero sarebbe forse che giustizia
+    Domini l'empia storia, e il Fato attenda,
+                  Ma senza dura ammenda
+                  Non lasci quaggiù compiere
+    Infame opera alcuna? Ignoto è il tutto,
+                  Senonchè peggior lutto
+                    E peggior onta cogliere,
+
+    Non poteva la tua razza colpevole:
+    La feroce tua madre il pianto apprese
+                  Delle madri che rese
+                  Furono, ahimè, per opera
+    Di piombo e di capestro, e pei consigli
+                  Di lei, orbe dei figli
+                    Devoti all'egra patria.
+
+    Di dolore e di sdegno alto ulularono
+    Il borgo imperïale e per cotanta
+                  Vergogna dei settanta
+                  Arciduchi le squallide
+    Case; ma più che la tua morte, offese
+                  Il modo, onta palese
+                    D'Austria, ed invendicabile.
+
+    Sì lunghe braccia ella non ha che arrivino
+    Oltre cotanto mar, la truce e abbietta
+                  Austrïaca vendetta;
+                  Nè là può in laccio stringerle
+    Sopra i nemici suoi, come per norme
+                  Antiche, nel deforme
+                    Imperio era abitudine.
+
+    Ma adesso io non farò della retorica.
+    Noi vendicati fummo e con usura.
+                  Se giaci in sepoltura
+                  Tu invendicato, credere
+    Non potrai che di ciò molto m'affanni.
+                  Sol che nel fior degli anni
+                    Tu sia morto rincrescemi.
+
+    Perocchè fosti un cuor gentile e nobile:
+    E non foss'altro questo loco il prova,
+                  Che vaga opera e nuova
+                  Fu di poeta e principe.
+    Ma poema maggior laggiù sognasti,
+                  E la tragedia andasti
+                    Ahi, col tuo sangue a scrivere!
+
+    Qui a me frattanto ridono impassibili
+    Arte e Natura; e sol talor si sente
+                  Rompere d'occidente
+                  Siccome un secco e rapido
+    Crepitar di moschetti in questo loco,
+                  Ma certamente è gioco
+                    Della scherzevol aura.
+
+
+
+
+ALLA SIGNORA L. C. P.
+
+NEL SUO GIORNO NATALIZIO (25 DICEMBRE)
+
+
+    Amabil donna, il cui spirto gentile
+      Non credo che sei lustri oggi saranno,
+      Tra le voci del gaudio e dell'affanno,
+      Prese leggiadra veste femminile;
+
+    Donna che or or conobbi, e nel virile
+      Petto, omai schivo d'ogni dolce inganno,
+      Culto m'induci tal che più d'un anno
+      Non già maggior, far nol potrìa simìle;
+
+    Questo bel giorno tuo, festeggio teco;
+      L'are diserto del nascente Iddio
+      Ed al tuo nume grazïoso io reco
+
+    Tutti i miei doni e inter l'omaggio mio;
+      Nè l'Uom ch'è in Cristo irato esser può meco,
+      Se pel tuo nume, ogni altro nume obblio.
+
+
+
+
+LICENZA
+
+
+LA ROCCA DI GARDA
+
+AD EMILIA
+
+
+    S'io salgo il ripido colle che domina
+    Di Garda gli umili tetti, e col bellico
+    Nome anco appellasi di rocca, subito
+                Quivi m'appar l'imagine
+
+    Tua bella, e balzano memorie gaie
+    Quasi dagli alberi, come un dì usarono
+    Le ninfe, e simile tu a Dea, l'amabile
+                Coro sembri dirigere:
+
+    Perocchè indizio di te qui al memore
+    Pensiero affacciasi dovunque; e l'eremo
+    Spoglio, e la rustica casa, e le complici
+                Piante di te mi parlano.
+
+    Dell'adorabile tuo nume è l'aere
+    Qui pieno, e intendere parmi il tuo picciolo
+    Grido là erompere dov'eri solita
+                Per gioco a me nasconderti:
+
+    Tosto a sorprenderli venivo, e scoppio
+    Di baci fervidi mescevo all'ilari
+    Tue risa. — Oh risero qui molto i giovani
+                Amori nostri e corsero
+
+    Qui vispi e liberi di freno, ai taciti
+    Recessi scandalo forse, che avevano
+    D'altri spettacoli men lieto esempio:
+                Perchè qui surse ai secoli
+
+    Di ferro il vigile manier, che carcere
+    Fu d'Adelaide. L'occhiuta invidia
+    Di Berengario qui fece chiudere
+                La giovinetta vedova
+
+    Di re Lotario, finchè l'astuzia
+    D'un umil chierico seppe sottrarnela.
+    Dal capo roseo discese a toglierle
+                Otton la benda funebre,
+
+    E fu l'Italia poder del Cesare
+    Tedesco. Oh il chierico s'ero io medesimo
+    E tu Adelaide, non io pel sassone
+                Letto t'avrei dal carcere
+
+    Sottratta, o vedova gentil. — Ma brucano
+    Le capre or l'arida gramigna ov'erano
+    Le torri e i solidi muri che sparvero:
+                Seppe all'età resistere
+
+    Il nome, l'unico nome. Alla valida
+    Rocca succedere fu visto l'eremo
+    Di poi. Si mostrano tuttor le squallide
+                Celle e il brev'orto annessovi
+
+    Ma niun più v'abita, ma niun le picciole
+    Aiuole semina sparse di triboli,
+    E i ragni tendono la tela ai putridi
+                Palchi che già ruinano:
+
+    Sotterra gli ultimi frati dimorano.
+    Di questi in cambio, qui far la monaca
+    E il frate lecito fu a noi per celia.
+                Te ne rammenti? dimmelo.
+
+    Così passarono rocca e cenobio.
+    Ma non quest'ampio divo spettacolo
+    Passò di ceruli flutti, e il sol aureo,
+                      E il mite e limpid'aere,
+
+    E il lido e i floridi colli. Immutabile
+    Tu se', o vaghissima Natura; mutano
+    In breve secolo le umane misere
+                      Cose. Passò dell'empia
+
+    Forza il dominio, passò il dominio
+    Del pregiudizio cieco; passarono
+    Le rocche e gli èremi. Non il dominio
+                      Di voi belli femminei
+
+    Occhi per volgere d'eterni secoli
+    Si potrà spegnere, chè inestinguibile
+    In voi la provvida Natura colloca
+                      Virtù che amore irradia.
+
+    Or non più a bellici strumenti destansi
+    Qui gli echi o a nenie sacre, nè in seguito
+    Ridesterannosi; ma spesso i taciti
+                      Pini soavi aneliti,
+
+    Sospiri e murmure di baci ascoltano;
+    Perocchè assidui gli amori alternansi,
+    E qui ad accoglierli nido propizio
+                      Natura parve erigere.
+
+
+
+
+FRAMMENTO EPICO
+
+
+    Già Bruto essendo col proprio esercito ai liti
+    Dell'Ellesponto giunto, pria ch'egli passasse d'Abido,
+    A tarda notte, sedeva siccome era usato
+    Nel padiglione suo, sepolto in profondo pensiero.
+    Posava il campo nell'ombra e nel grande notturno
+    Silenzio; ma quasi d'alto le complici stelle
+    Piovessero influssi maligni, correva l'arcano
+    Senso di non so quale sgomento nell'aëre tetro.
+    Mandava intanto la lampada gli ultimi guizzi
+    Su quel vigilante capo, cui stretto più intorno
+    Facevasi il cerchio di luce e le tenebre ognora
+    Più fitte, siccome dai lati e di mezzo alle pieghe
+    Del cortinaggio basso surgessero, oppure di terra.
+    Ma non a ciò dava mente egli cui nulla premeva
+    Se non l'alto, ahi! dubbio fato imminente di Roma.
+    Quand'ecco un suono — lieve, indefinibile suono —
+    Udire gli parve, ond'alzò di subito il capo
+    Che reggea fra le mani, con gli occhi nel buio indagando:
+    E veduto gli venne, tra il fosco orrore notturno
+    Costà sulla soglia tremendo in aspetto ed immane
+    Di membra un ignoto. Pria sbigottimento l'assalse;
+    Ma come colui vide zitto ed immobile starsi.
+    Gli chiese chi fosse. Tosto il fantasma rispose:
+    «Sono il mal genio tuo. Bruto; rivedrai me a Filippi.»
+    Senza tema il duce: «Ti rivedrò, disse, a Filippi.» —
+    Quella parvenza allora, quasi mescendosi all'ombre
+    Ond'era uscita, tosto di Bruto agli sguardi si tolse.
+
+      Poco appresso pertanto Bruto con Cesare essendo
+    Venuto a battaglia, nel pian di Filippi lo vinse.
+    Ma quivi ad un novo scontro accingendosi poscia,
+    E d'azzuffarsi già stando gli eserciti in atto,
+    Ancora ecco a Bruto subito surse dinanzi
+    L'orribile spettro che non fe' motto. Laonde
+    Presago il duce dello ineluttabile Fato,
+    Come si venne all'armi scagliossi nel mezzo alla mischia,
+    Libera cercando morte sull'aste nemiche.
+    Se non che invano per quanto fu lungo il fatale
+    Giorno la disillusa vita il magnanimo espose.
+    Sol poichè quasi sè stesso incolume vide
+    Per gioco, allorquando tutti giacéangli dintorno
+    Gli amici estinti, già essendo l'esercito in fuga,
+    Sol finalmente allora lento dal campo si tolse
+    Anch'egli, e dopo non molto in isquallido loco
+    E deserto giunto, quivi imprecando all'inane
+    Virtù che nulla vale sul ferreo Destino, tenendo
+    L'elsa del brando a terra, e nel petto rivolta la punta,
+    Gittovvisi contro, trafitto sul suolo cadendo.
+    Dall'ampia ferita tosto lo spirito eruppe
+    Disdegnoso e salse, lento solvendosi in alto,
+    Nel tacito aere azzurro, solenne, infinito.
+
+
+
+
+CONCLUSIONE
+
+
+AL VERSO
+
+
+    O verso piccioletto,
+      Aspide maledetto,
+      Lo sai ch'io ti detesto,
+      Perfido serpentello,
+      Che come il tarlo infesto
+      Mi trapani il cervello?
+
+    Benchè t'allinei dritto
+      E immoto allor che scritto
+      In pubblico tu appari,
+      Angue non c'è che pari
+      A te i disgiunti anelli
+      Dimeni, e si ribelli,
+
+    E si contorca pria
+      Che tu sul foglio a viva
+      Forza confitto sia.
+      Ma tu sei forte e bello,
+      O verso o serpentello,
+      Che adesso io malediva.
+
+    Io ti detesto e t'amo:
+      Ora di te vorrei
+      Disfarmi, ora in delirio
+      D'amor t'invoco e chiamo.
+      Tu a un tempo il mio martirio,
+      E la mia gioia sei.
+
+    A chi ti scalda in seno
+      Come al villan succede,
+      Tu lo ferisci al cuore.
+      E se però non muore,
+      Pur contro il tuo veleno
+      Invan rimedio chiede.
+
+    Ma chi alle forme belle
+      Soltanto e all'apparenze
+      Ti giudica, il perverso
+      Umor, le renitenze
+      Dell'indol tua ribelle
+      Ignora, o picciol verso.
+
+    Quando pel mondo il nido
+      Tu lasci ove nascesti,
+      O vago serpe infido,
+      Di molle musco odori,
+      E delle gemme vesti
+      Gli splendidi colori;
+
+    E vellicando i sensi
+      Col morso tuo sottile.
+      Metti nel sen gli intensi
+      Affetti ed il gentile
+      Filtro nel sangue infondi
+      Dei sogni tuoi giocondi.
+
+    Ma noi che tanta parte
+      Gittiam di nostra vita
+      Per educarti a questa
+      Grande e difficil arte,
+      Che all'uom fa men molesta
+      La via trita e ritrita;
+
+    Noi, maledetto verso,
+      Ti conosciamo a fondo,
+      Vediam siccome in terso
+      Vetro ogni tuo difetto,
+      Che non discerne il mondo,
+      O verso maledetto.
+
+    Io notte e dì mi vengo
+      Accapigliando teco;
+      Ma la fatica spreco;
+      Piegarti al mio pensiero
+      Assai di rado ottengo,
+      O indocil serpe altero.
+
+    Pullula il mio cervello
+      D'un popolo di larve,
+      Ma come a te le affido,
+      O picciol verso infido,
+      L'illusione sparve,
+      Esso non è più quello.
+
+    Però di te m'offendo
+      Spesso e ti faccio in brani
+      Colle mie stesse mani.
+      Ahimè, nè forse intendo
+      Che solo il vizio ond'io
+      T'accuso è vizio mio.
+
+    La scimmia un dì si scorse
+      Dentro lo specchio, e offesa
+      Di sua bruttezza resa
+      Da quello, su vi corse
+      E il ruppe al tempo istesso,
+      Quasi colpevol esso
+
+    Fosse se brutta ell'era.
+      Ad un egual maniera
+      Cadon gli sdegni miei
+      Su te verso innocente,
+      Che sol d'un impotente
+      Estro lo specchio sei.
+
+
+
+
+INDICE
+
+
+  PREFAZIONE                                    Pag.   1
+  Ideale                                         »     3
+  Tragedia umile                                 »     9
+  Parallelo                                      »    27
+  Natale                                         »    33
+  Per una ignota                                 »    37
+  Brindisi                                       »    39
+  Fantasime                                      »    43
+  Per un amico estinto                           »    49
+  Insonnia                                       »    55
+  Realismo                                       »    61
+  Piccolo mondo                                  »    67
+  Catastrofe                                     »   117
+  Storia d'ogni dì                               »   123
+  Nel chiostro                                   »   129
+  Ode al vino                                    »   135
+  Pioggia di Maggio                              »   141
+  La strada                                      »   143
+  Mendicanti campestri                           »   147
+  Miramar                                        »   149
+  Alla signora L. C. P.                          »   157
+  LICENZA: La rocca di Garda                     »   161
+  Frammento epico                                »   167
+  CONCLUSIONE: Al verso                          »   173
+
+
+
+
+  _Finito di stampare
+  il dì 30 Marzo MDCCCLXXX
+  nella tipografia di Nicola Zanichelli
+  in Modena._
+
+
+
+
+NOTE:
+
+
+[1] Questi versi sono del 1878.
+
+[2] Non intesi in nessun modo giustificare con questi miei versi un
+fatto luttuosissimo, del quale purtroppo sì frequente esempio danno
+le odierne condizioni della società e della vita. Elevando a fantasmi
+poetici i sentimenti d'una fanciulla che muore asfissiandosi e facendo
+parlare a ciascuno il proprio linguaggio come l'educazione e lo
+stato della fanciulla stessa me lo faceva supporre, volli soltanto
+rappresentare un accidente assai comune a dir vero, ma non meno
+tremendo, sotto forma di breve dramma sentimentale, a scopo puramente
+artistico e non punto morale nè filosofico.
+
+
+
+
+
+Nota del Trascrittore
+
+Ortografia e punteggiatura originali sono state mantenute, correggendo
+senza annotazione minimi errori tipografici.
+
+
+
+
+
+End of the Project Gutenberg EBook of Nuovi versi, by Vittorio Betteloni
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NUOVI VERSI ***
+
+***** This file should be named 59903-0.txt or 59903-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/9/0/59903/
+
+Produced by Carlo Traverso, Barbara Magni and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
